@@ -1,0 +1,2806 @@
+3 2
+[(2, 2)]
+1, 0, 0, For his part 
+2, 1, 1, Jobs was upset that the Germans kept trying to feed him meat and potatoes . 
+8 4
+[(1, 1)]
+1, 0, 0, Wozniak was thrilled when Jobs asked him to help and proposed splitting the fee 
+2, 0, 0, this was the most wonderful offer in my life 
+3, 1, 1, to actually design a game that people would use 
+4, 0, 0, he recalled . 
+41 3
+[(3, 3)]
+1, 0, 0, One day Jobs came into the cubicle of Larry Kenyon 
+2, 0, 1, an engineer who was working on the Macintosh operating system 
+3, 0, 0, and complained that it was taking too long to boot up . 
+47 5
+[(5, 2)]
+1, 0, 1, Atkinson had been left out of the publicity interviews for the Lisa launch 
+2, 0, 0, and he marched into Jobs 's hotel room and threatened to quit 
+3, 0, 0, Jobs tried to minimize the slight 
+4, 0, 0, but Atkinson refused to be mollified 
+5, 1, 0, Jobs got annoyed . 
+63 9
+[(5, 9)]
+1, 0, 0, Is it hard work 
+2, 0, 0, she asked 
+3, 0, 0, How much vacation time do they get 
+4, 0, 1, How much vacation time do they get 
+5, 0, 0, Jobs could n't contain himself 
+6, 0, 0, bs replied 
+7, 0, 0, im in a hurry 
+8, 0, 0, Amazingly 
+9, 0, 0, the officer didnt get mad . 
+72 2
+[(1, 2)]
+1, 0, 0, In his growling voice 
+2, 1, 1, he said that Jobs had been behaving foolishly for a year and had no right to be managing a division . 
+74 2
+[(1, 1)]
+1, 1, 1, His ire stoked by hearing from Markkula that Jobs had spent the previous evening trying to subvert him 
+2, 0, 0, Sculley walked over to Jobs 's office on Tuesday morning . 
+78 2
+[(2, 1)]
+1, 0, 0, He came to the board and lied to us 
+2, 1, 0, Rock growled later . 
+84 3
+[(2, 2)]
+1, 1, 0, I dont hold anything against him im happy to be alive 
+2, 0, 1, But what bothers me most is that he didnt treat Mona well 
+3, 0, 0, He abandoned her . 
+86 6
+[(2, 2)]
+1, 0, 0, On occasion this could backfire 
+2, 1, 1, such as when Jobs and Ive insisted on using a solid piece of brushed aluminum for the edge of the iPhone 4 even when the engineers worried that it would 
+3, 0, 0, But usually the distinctiveness of its designs for the iMac 
+4, 0, 0, the iPod 
+5, 0, 0, the iPhone 
+6, 0, 0, and the iPad would set Apple apart and lead to its triumphs in the years after Jobs returned . 
+113 15
+[(6, 6)]
+1, 0, 0, on the march he is no better 
+2, 0, 0, If you give him a gun and some ammunition to protect him in case of emergencies 
+3, 0, 0, he will promise to save it 
+4, 0, 0, but forthwith expends it by firing it off in the air 
+5, 0, 0, and demands more 
+6, 1, 1, else he will fear to venture amongst the " savages 
+7, 0, 0, Suppose you give him a box of bottles to carry 
+8, 0, 0, or a desk 
+9, 0, 0, or anything else that requires great care 
+10, 0, 0, and you caution him of its contents 
+11, 0, 0, the first thing he does is to commence swinging it round and round 
+12, 0, 0, or putting it topsy-turvy on the top of his head 
+13, 0, 0, when he will run off at a jog trot 
+14, 0, 0, singing and laughing in the most provoking manner 
+15, 0, 0, and thinking no more about it than if it were an old stone 
+117 12
+[(6, 5)]
+1, 0, 0, On my return to Zanzibar 
+2, 0, 0, the Brisk sailed for the Mauritius 
+3, 0, 0, but fortune sent Grant and myself on a different cruise 
+4, 0, 0, Sultan Majid 
+5, 0, 0, having heard that a slaver was lying at Pangani 
+6, 0, 0, and being anxious to show his good faith with the English 
+7, 0, 0, begged me to take command of one his vessels of war and run it down 
+8, 0, 0, Accordingly 
+9, 0, 0, embarking at noon 
+10, 0, 0, as soon as the vessel could be got ready 
+11, 0, 0, we lay to that night at Tombat 
+12, 0, 0, with a view of surprising the slaver next morning 
+121 7
+[(3, 3)]
+1, 0, 0, They both knew Hindustani 
+2, 0, 0, but while Rahan 's services at sea had been short 
+3, 1, 1, Baraka had served nearly all his life with Englishmen was the smartest and most intelligent negro I ever saw was invaluable to Colonel Rigby as a detector of slave traders 
+4, 0, 0, and enjoyed his confidence completely so much so 
+5, 0, 0, that he said 
+6, 0, 0, on parting with him 
+7, 0, 0, that he did not know where he should be able to find another man to fill his post . 
+137 8
+[(1, 1)]
+1, 0, 1, My men had greatly amused him by firing their guns off and showing him the use of their sword bayonets 
+2, 0, 0, I knew 
+3, 0, 0, as a matter of course 
+4, 0, 0, that if I stopped any longer I should be teased for more cloths 
+5, 0, 0, and gave orders to my men to march the same instant 
+6, 0, 0, saying 
+7, 0, 0, if they did not for I saw them hesitate I would give the cows to the villagers 
+8, 0, 0, since I knew that was the thing that weighed on their minds . 
+149 9
+[(5, 6)]
+1, 0, 0, Leaving the valley of Uthenga 
+2, 0, 0, we rose over the spur of N'yamwara 
+3, 0, 0, where we found we had attained the delightful altitude of 5000 odd feet 
+4, 0, 0, Oh 
+5, 0, 0, how we enjoyed it 
+6, 1, 1, every one feeling so happy at the prospect of meeting so soon the good king Rumanika 
+7, 0, 0, Tripping down the greensward 
+8, 0, 0, we now worked our way to the Rozoka valley 
+9, 0, 0, and pitched our tents in the village . 
+151 10
+[(4, 4)]
+1, 0, 0, Ever anxious to push on with the journey 
+2, 0, 0, as I felt every day 's delay only tended to diminish my means that is 
+3, 0, 0, my beads and copper wire I instructed Bombay to take the under mentioned articles to Rumanika as a small sample of the products of my country 
+4, 1, 1, to say I felt quite ashamed of their being so few and so poor 
+5, 0, 0, but I hoped he would forgive my shortcomings 
+6, 0, 0, as he knew I had been so often robbed on the way to him 
+7, 0, 0, and I trusted 
+8, 0, 0, in recollection of Musa 
+9, 0, 0, he would give me leave to go on to Uganda 
+10, 0, 0, for every day 's delay was consuming my supplies . 
+153 8
+[(6, 6)]
+1, 0, 0, Neither his father nor any of his forefathers had had such a great favour shown them 
+2, 0, 0, He was alarmed 
+3, 0, 0, he confessed 
+4, 0, 0, when he heard we were coming to visit him 
+5, 0, 0, thinking we might prove some fearful monsters that were not quite human 
+6, 1, 1, but now he was delighted beyond all measure with what he saw of us 
+7, 0, 0, A messenger should be sent at once to the king of Uganda to inform him of our intention to visit him 
+8, 0, 0, with his own favourable report of us . 
+162 7
+[(4, 4)]
+1, 0, 0, Before breaking up 
+2, 0, 1, Rumanika wished to give me any number of ivories I might like to mention 
+3, 0, 0, even three or four hundred 
+4, 0, 0, as a lasting remembrance that I had done him the honour of visiting Karague in his lifetime 
+5, 0, 0, for though Dagara had given to coloured merchants 
+6, 0, 0, he would be the first who had given to a white man 
+7, 0, 0, Of course this royal offer was declined with politeness 
+181 12
+[(5, 5)]
+1, 0, 0, She admitted me at once 
+2, 0, 0, when I gave her quinine 
+3, 0, 0, on the proviso that I should stop there all day and night to repeat the dose 
+4, 0, 0, and tell her the reason why I did not come before 
+5, 0, 0, She affected great anger at Mtesa having interfered with my servants when coming to see her sympathised with me on the distance I had to travel ordered a hut to 
+6, 0, 0, rising abruptly 
+7, 0, 0, walked away 
+8, 1, 1, At noon we heard the king approaching with his drums and rattle traps 
+9, 0, 0, but I still waited on till 5 p 
+10, 0, 0, when 
+11, 0, 0, on summons 
+12, 0, 0, I repaired to the throne hut . 
+186 12
+[(5, 5)]
+1, 0, 0, Instead of admiring this childish pastime 
+2, 0, 0, which in Uganda is considered royal sport 
+3, 0, 0, I rather looked disdainful 
+4, 0, 0, until 
+5, 0, 0, apparently disappointed at my indifference 
+6, 0, 0, he asked what the box I had brought contained 
+7, 0, 0, On being told it was the medicine he desired 
+8, 0, 0, he asked me to draw near 
+9, 0, 0, and sent his courtiers away 
+10, 0, 0, When only the interpreters and one confidential officer were left 
+11, 0, 0, besides myself 
+12, 0, 0, he wished to know if I could apply the medicine without its touching the afflicted part . 
+205 7
+[(1, 1)]
+1, 1, 1, A fear that you were married 
+2, 0, 0, '' he said 
+3, 0, 0, with a boldness that made me blush 
+4, 0, 0, As for Mademoiselle 
+5, 0, 0, a color that vied with the June roses charged through her cheeks 
+6, 0, 0, She stooped to pick up her sewing 
+7, 0, 0, but Nick was before her . 
+223 7
+[(4, 4), (4, 5)]
+1, 0, 0, Suddenly 
+2, 0, 0, with the deftness of a panther 
+3, 0, 0, an Indian shot forward and lifted me high in his arms 
+4, 0, 0, To this day I recall my terror as I dangled in mid-air 
+5, 0, 0, staring into a hideous face 
+6, 0, 0, By intuition I kicked him in the stomach with all my might 
+7, 1, 0, and with a howl of surprise and rage his fingers gripped into my flesh . 
+234 4
+[(1, 1), (1, 2), (1, 3)]
+1, 1, 1, One day I was surprised to see the wagoner riding up the path to our cabin 
+2, 0, 0, crying out for my father 
+3, 0, 0, for he was a violent man 
+4, 0, 0, And a violent scene followed . 
+237 5
+[(4, 4)]
+1, 0, 1, This furnished Madame de Fondege with another excuse for proffering her advice 
+2, 0, 0, But Mademoiselle Marguerite would not allow herself to be convinced at once 
+3, 0, 0, She raised a great many objections 
+4, 1, 1, and parleyed for a long time before telling Madame de Fondege that she would be happy to accept the hospitality which had been offered her 
+5, 0, 0, And her consent was by no means unconditional . 
+242 7
+[(5, 5)]
+1, 0, 0, Arrayed in his best uniform 
+2, 0, 0, his thin legs encased in black silk stockings 
+3, 0, 0, his mantle thrown gracefully over his shoulders 
+4, 0, 0, and his cocked hat under his arm 
+5, 1, 0, he was looking anxiously about for some one in the assembled crowd to whom he could give the signal for departure 
+6, 0, 0, He was already talking of starting off when M 
+7, 0, 0, de Fondege appeared . 
+260 5
+[(4, 4)]
+1, 0, 0, Madame Ferailleur understood this feeling 
+2, 0, 0, but she was a mother 
+3, 0, 0, and as such 
+4, 0, 0, jealous of her son 's tenderness 
+5, 1, 1, and anxious for particulars concerning this rival who had suddenly usurped her place in the heart where she had long reigned supreme . 
+271 9
+[(7, 7)]
+1, 0, 0, As I have said 
+2, 0, 0, he was a wild lad 
+3, 1, 1, sobered by none of the things which had gone to make my life 
+4, 0, 1, and what he took into his head to do he generally did 
+5, 0, 0, or 
+6, 0, 0, if balked 
+7, 0, 0, flew into such a rage as to make one believe he could not live 
+8, 1, 0, Life was always war with him 
+9, 0, 0, or some semblance of a struggle . 
+295 4
+[(3, 3)]
+1, 0, 0, By day as he went around among the men his brow was unclouded 
+2, 0, 0, though his face was stern 
+3, 1, 1, But now I surprised the man so strangely moved that I yearned to comfort him 
+4, 0, 0, He had taken three turns before he perceived me . 
+298 5
+[(2, 2)]
+1, 0, 0, On such occasions the current of time runs sluggish 
+2, 0, 0, Thrice our muscles were startled into tenseness by the baying of a hound 
+3, 0, 0, and once a cock crew out of all season 
+4, 1, 0, For the night was cloudy and pitchy black 
+5, 0, 0, and the dawn as far away as eternity . 
+317 2
+[(2, 2)]
+1, 0, 0, Again she was shaken with laughter 
+2, 1, 1, and suddenly to my surprise she turned and looked full at me . 
+325 2
+[(1, 1)]
+1, 1, 1, There was but one disquieting question left : What was to become of the North Wind and his friends 
+2, 0, 0, None dared mention the matter at such a time . 
+347 5
+[(3, 1)]
+1, 0, 0, Those rules of deduction laid down in that article which aroused your scorn are invaluable to me in practical work 
+2, 0, 0, Observation with me is second nature 
+3, 1, 1, You appeared to be surprised when I told you 
+4, 0, 0, on our first meeting 
+5, 0, 0, that you had come from Afghanistan . 
+354 3
+[(1, 1)]
+1, 1, 1, I shall be most happy to tell you anything I can 
+2, 0, 0, the constable answered 
+3, 0, 0, with his eyes upon the little golden disc . 
+363 10
+[(10, 10)]
+1, 0, 0, How he came there 
+2, 0, 0, or how he met his fate 
+3, 0, 1, are questions which are still involved in mystery 
+4, 0, 0, Nothing is known of the whereabouts of Stangerson 
+5, 1, 0, We are glad to learn that Mr 
+6, 0, 0, Lestrade and Mr 
+7, 0, 0, Gregson 
+8, 0, 0, of Scotland Yard 
+9, 0, 0, are both engaged upon the case 
+10, 0, 0, and it is confidently anticipated that these well-known officers will speedily throw light upon the matter . 
+378 3
+[(2, 3)]
+1, 0, 0, How is it now 
+2, 0, 0, he answered anxiously 
+3, 1, 1, for she was still rubbing the tousy golden curls which covered the back of her head . 
+379 7
+[(7, 7)]
+1, 0, 0, She looked up at his dark 
+2, 0, 0, fierce face 
+3, 0, 0, and laughed saucily 
+4, 1, 0, I m awful frightened 
+5, 0, 0, she said 
+6, 0, 0, naively 
+7, 0, 1, whoever would have thought that Poncho would have been so scared by a lot of cows 
+380 5
+[(3, 1), (3, 2)]
+1, 0, 0, Its invisibility 
+2, 0, 0, and the mystery which was attached to it 
+3, 0, 1, made this organization doubly terrible 
+4, 1, 0, It appeared to be omniscient and omnipotent 
+5, 0, 0, and yet was neither seen nor heard . 
+399 7
+[(3, 3)]
+1, 0, 0, As a rule 
+2, 0, 0, Chupin was not easily impressed 
+3, 1, 1, but he felt almost frightened by his employer 's agitation 
+4, 0, 0, " I only repeated what M 
+5, 0, 0, Casimir told me 
+6, 0, 0, monsieur 
+7, 0, 0, " was his reply . 
+409 12
+[(3, 2)]
+1, 0, 0, de Valorsay paced the floor in a state of intense agitation 
+2, 0, 1, Had he caught a glimpse of his own face in the looking-glass 
+3, 0, 0, it would have frightened him 
+4, 0, 0, " A gentleman 
+5, 0, 0, " he repeated 
+6, 0, 0, in a tone of suppressed rage 
+7, 0, 0, " a gentleman 
+8, 0, 0, That word is in everybody 's mouth 
+9, 0, 0, nowadays 
+10, 0, 0, Pray 
+11, 0, 0, what do you understand by a gentleman 
+12, 0, 0, Mons . 
+410 9
+[(5, 5)]
+1, 0, 0, Fortunat would certainly have preferred to lose a good pound of flesh rather than the sum of money mentioned 
+2, 0, 0, but 
+3, 0, 0, on the other hand 
+4, 0, 0, he felt that it would not do for him to sever his connection with his client until the death of the Count de Chalusse was certain 
+5, 0, 0, and being anxious to save his money and to keep his client 
+6, 1, 0, his embarrassment was extreme 
+7, 0, 0, " It was the most unfortunate thing in the world 
+8, 0, 0, " he stammered 
+9, 0, 1, " I apprehended no difficulty whatever " 
+431 9
+[(9, 9)]
+1, 0, 0, Clients became so numerous that Pascal found it necessary to draw nearer the business centre 
+2, 0, 0, and his rent was consequently doubled 
+3, 0, 1, but the income he derived from his profession increased so rapidly that he soon had twelve thousand francs safely invested as a resource against any emergency 
+4, 0, 0, Madame Ferailleur now laid aside the mourning she had worn since her husband 's death 
+5, 1, 0, She felt that she owed it to Pascal 
+6, 0, 0, and 
+7, 0, 0, besides 
+8, 0, 0, after believing there was no more happiness left for her on earth 
+9, 0, 0, her heart rejoiced at her son 's success . 
+437 6
+[(3, 3)]
+1, 0, 1, Pascal read as follows : " There was great sensation and a terrible scandal last night at the residence of Madame d' a 
+2, 0, 0, a well-known star of the first magnitude 
+3, 0, 1, A score of gentlemen of high rank and immense wealth were enjoying a quiet game of baccarat 
+4, 0, 0, when it was observed that M 
+5, 0, 0, F was winning in a most extraordinary manner 
+6, 0, 0, He was watched and detected in the very act of dexterously slipping some cards into the pack he held . 
+438 12
+[(9, 9)]
+1, 0, 0, and 
+2, 0, 0, unfortunately 
+3, 0, 0, this prank cannot be attributed to a momentary fit of madness 
+4, 0, 0, for the fact that he had provided himself with these cards in advance proves the act to have been premeditated 
+5, 0, 0, One of the persons present was especially displeased 
+6, 0, 0, This was the Viscount de C 
+7, 0, 0, who had introduced M 
+8, 0, 0, F to Madame d' a 
+9, 0, 0, Extremely annoyed by this contretemps 
+10, 1, 0, he took umbrage at an offensive remark made by M 
+11, 0, 0, de R 
+12, 0, 0, and it was rumored that these gentlemen would cross swords at daybreak this morning . 
+454 7
+[(4, 3)]
+1, 0, 0, The clerk had been even less disturbed than the magistrate 
+2, 0, 0, He also was blase 
+3, 0, 0, having witnessed too many of those frightful and shameless dramas which are enacted at a dead man 's bedside 
+4, 1, 1, to be surprised at anything 
+5, 0, 0, If he had deigned to glance at the escritoire 
+6, 0, 0, it was only because he was curious to see how small a space would suffice to contain two millions 
+7, 0, 0, and then he had begun to calculate how many years he would be obliged to remain a clerk before he could succeed in amassing such a fabulous sum . 
+463 17
+[(6, 4)]
+1, 0, 0, What a change indeed 
+2, 0, 0, At last the count made me retire to one of the compartments 
+3, 0, 0, where I soon fell asleep 
+4, 0, 0, abandoning my efforts to distinguish what was dreamlike in my situation from reality 
+5, 0, 0, However 
+6, 0, 0, when I woke up I became terribly anxious 
+7, 0, 0, I asked myself what was awaiting me at the end of this long journey 
+8, 0, 0, de Chalusse 's manner continued kind 
+9, 0, 0, and even affectionate 
+10, 0, 0, but he had regained his accustomed reserve and self-control 
+11, 0, 0, and I realized that it would be useless on my part to question him 
+12, 0, 0, At last 
+13, 0, 0, after a thirty hours ' journey by rail 
+14, 0, 0, we again entered the count 's berline 
+15, 0, 0, drawn by post horses 
+16, 0, 0, and eventually M 
+17, 0, 0, de Chalusse said to me : ' here is Cannes we are at our journey 's end . ' 
+464 27
+[(12, 9)]
+1, 0, 0, He told me that he proposed spending a few months here in seclusion 
+2, 0, 0, so as to give me time to accustom myself to my new position and the luxury that surrounded me 
+3, 0, 0, I was 
+4, 0, 0, indeed 
+5, 0, 0, extremely awkward 
+6, 0, 0, and my excessive timidity was increased by my pride 
+7, 0, 0, I did not know what to say 
+8, 0, 0, or what to do 
+9, 0, 0, I did not know how to use my hands 
+10, 0, 0, nor how to walk 
+11, 0, 0, nor how to carry myself 
+12, 0, 0, Everything embarrassed and frightened me 
+13, 0, 0, and I was conscious of my awkwardness 
+14, 0, 0, without being able to remedy it 
+15, 0, 0, I saw my blunders 
+16, 0, 0, and knew that I spoke a different language to that which was spoken around me 
+17, 0, 0, And yet the memory of Cannes will ever be dear to me 
+18, 0, 0, For there I first met the only friend I have now left in this world 
+19, 0, 0, I did not exchange a word with him 
+20, 0, 0, but by the quickened throbbing s of my heart 
+21, 0, 0, when our eyes met 
+22, 1, 0, I felt that he would exert a powerful influence over my life 
+23, 0, 0, and events have since proved that I was not deceived 
+24, 0, 0, At that time 
+25, 0, 0, however 
+26, 1, 0, he was a stranger to me 
+27, 0, 0, and nothing on earth would have induced me to make inquiries concerning him . 
+470 11
+[(4, 4)]
+1, 0, 0, When that day comes I will go to your guardian and ask him for your hand 
+2, 0, 0, but in Heaven 's name dont speak now 
+3, 0, 0, I understood Pascal 's motives well enough 
+4, 0, 0, The count 's immense fortune frightened him 
+5, 1, 1, and he feared that he would be accused of being a fortune hunter 
+6, 0, 0, So I waited 
+7, 0, 0, with that secret anguish which still haunts those who have been unhappy even when their present is peaceful 
+8, 0, 0, and their future seems bright 
+9, 0, 0, I kept my secret 
+10, 0, 0, saying to myself that such happiness was not meant for me 
+11, 0, 0, that it would soon take flight . 
+471 7
+[(5, 5)]
+1, 0, 1, I did not wish to bind him by the advice which he would certainly have given me 
+2, 0, 0, I had his troth 
+3, 0, 0, and that sufficed 
+4, 0, 0, And it was with a thrill of joy that I said to myself : ' what does it matter if M 
+5, 0, 0, de Chalusse should be so angered by my refusal to obey him as to drive me from his house 
+6, 0, 0, It will rather be so much the better 
+7, 0, 0, Pascal will protect me . ' 
+487 19
+[(4, 4)]
+1, 0, 0, But M 
+2, 0, 0, Fortunat had resolved to listen to nothing 
+3, 0, 0, He wished for no explanations 
+4, 1, 1, so distrustful was he of himself so much did he fear that his adventurous nature would urge him to incur further risk 
+5, 0, 0, He was positively afraid of the Marquis de Valorsay 's eloquence 
+6, 0, 0, besides 
+7, 0, 0, he knew well enough that the person who consents to listen is at least half convinced 
+8, 0, 0, " Tell me nothing 
+9, 0, 0, monsieur 
+10, 0, 0, " he hastily answered 
+11, 0, 0, " it would be useless 
+12, 0, 0, I have n't the money 
+13, 0, 0, If I had given you ten thousand francs last night 
+14, 0, 0, I should have been compelled to borrow them of M 
+15, 0, 0, Prosper Bertomy 
+16, 0, 0, And even if I had the money 
+17, 0, 0, I should still say ' Impossible 
+18, 0, 0, Every man has his system his theory 
+19, 0, 0, you know . 
+512 6
+[(6, 6)]
+1, 0, 0, ' bruno 
+2, 0, 0, that 's enough 
+3, 0, 0, ' she said 
+4, 0, 0, snapping at him now and standing up to show him that she was serious when she said that was enough 
+5, 0, 0, ' honestly 
+6, 1, 1, only last week you were complaining about how much things have changed here recently . ' 
+523 9
+[(6, 1)]
+1, 0, 1, ' i dont see what else there is to do other than that 
+2, 0, 0, ' said Bruno sadly 
+3, 0, 0, ' i dont even think there 's going to be anyone to play with other than Gretel 
+4, 0, 0, and what fun is that after all 
+5, 0, 0, She 's a Hopeless Case 
+6, 1, 0, He felt as if he was about to cry again but stopped himself 
+7, 0, 0, not wanting to look like a baby in front of Maria 
+8, 0, 0, He looked around the room without fully lifting his eyes up from the ground 
+9, 1, 0, trying to see whether there was anything of interest to be found . 
+525 9
+[(8, 5)]
+1, 0, 0, ' of course I did 
+2, 0, 0, ' she replied 
+3, 0, 0, ' you dont think i 'd have left them at home 
+4, 0, 0, Why 
+5, 0, 1, it could be weeks before we 're back there again 
+6, 0, 0, ' weeks 
+7, 0, 0, ' said Bruno 
+8, 1, 0, sounding disappointed but secretly pleased because he 'd resigned himself to the idea of spending a month there 
+9, 0, 0, ' do you really think so 
+532 17
+[(17, 5)]
+1, 0, 0, ' look over there 
+2, 0, 0, ' said Bruno 
+3, 0, 0, and Gretel followed the direction of the finger he was pointing and saw 
+4, 0, 0, emerging from a hut in the distance 
+5, 0, 0, a group of children huddled together and being shouted at by a group of soldiers 
+6, 0, 0, The more they were shouted at 
+7, 0, 0, the closer they huddled together 
+8, 0, 0, but then one of the soldiers lunged towards them and they separated and seemed to do what he had wanted them to do all along 
+9, 0, 0, which was to stand in a single line 
+10, 0, 0, When they did 
+11, 0, 0, the soldiers all started to laugh and applaud them 
+12, 0, 1, ' it must be some sort of rehearsal 
+13, 0, 0, ' suggested Gretel 
+14, 1, 0, ignoring the fact that some of the children 
+15, 0, 0, even some of the older ones 
+16, 0, 0, even the ones as grown up as her 
+17, 0, 0, looked as if they were crying . 
+546 4
+[(1, 2)]
+1, 0, 0, He tensed slightly and got ready to make a run for it if necessary 
+2, 0, 1, But nothing seemed to be making Father angry today and if Bruno was honest with himself he would have admitted that Father rarely became angry 
+3, 0, 0, he became quiet and distant and always had his way in the end anyway and rather than shouting at him or chasing him around the house 
+4, 0, 0, he simply shook his head and indicated that their debate was at an end . 
+555 8
+[(7, 1)]
+1, 0, 1, ' everything here is horrible 
+2, 0, 0, ' he said out loud 
+3, 0, 0, even though there was no one present to hear him 
+4, 0, 0, but somehow it made him feel better to hear the words stated anyway 
+5, 0, 0, ' i hate this house 
+6, 1, 0, I hate my room and I even hate the paintwork 
+7, 0, 0, I hate it all 
+8, 0, 0, Absolutely everything . ' 
+560 8
+[(3, 1)]
+1, 0, 1, ' stupid Father 
+2, 0, 0, ' he added under his breath 
+3, 0, 0, Maria 's eyes opened wide and she took a step towards him 
+4, 1, 0, her hands covering her mouth for a moment in horror 
+5, 0, 0, She looked round to make sure that no one was listening to them and had heard what Bruno had just said 
+6, 0, 0, ' you must n't say that 
+7, 0, 0, ' she said 
+8, 0, 0, ' you must never say something like that about your father . ' 
+585 9
+[(9, 8), (9, 9)]
+1, 0, 0, ' indeed 
+2, 0, 0, ' said Lieutenant Kotler 
+3, 0, 0, nodding his head wisely as if such things were only distant memories to him now 
+4, 0, 0, despite the fact that he was 
+5, 0, 0, as Gretel had pointed out 
+6, 0, 0, no more than a teenager himself 
+7, 0, 0, ' yes 
+8, 0, 1, I made many swings myself when I was a child 
+9, 0, 1, My friends and I had many happy afternoons together playing on them . ' 
+602 9
+[(7, 7)]
+1, 0, 0, The walk along the fence took Bruno a lot longer than he expected 
+2, 0, 0, it seemed to stretch on and on for several miles 
+3, 0, 0, He walked and walked 
+4, 0, 0, and when he looked back the house that he was living in became smaller and smaller until it vanished from sight altogether 
+5, 0, 0, During all this time he never saw anyone anywhere close to the fence 
+6, 0, 0, nor did he find any doors to let him inside 
+7, 1, 0, and he started to despair that his exploration was going to be entirely unsuccessful 
+8, 0, 0, In fact although the fence continued as far as the eye could see 
+9, 0, 0, the huts and buildings and smoke stacks were disappearing in the distance behind him and the fence seemed to be separating him from nothing but open space . 
+609 6
+[(6, 5)]
+1, 0, 0, The woman standing beside him 
+2, 0, 0, however 
+3, 0, 0, was quite the most beautiful woman he had ever seen in his life 
+4, 0, 0, She had blonde hair and very red lips 
+5, 0, 1, and while the Fury spoke to Mother she turned and looked at Bruno and smiled 
+6, 0, 0, making him go red with embarrassment . 
+614 7
+[(6, 7)]
+1, 0, 0, ' we lived there for some more months 
+2, 0, 0, ' continued Shmuel 
+3, 0, 0, ' all of us in that one room 
+4, 1, 1, There was one small window in it but I didnt like to look out of it because then I would see the wall and I hated the wall because our 
+5, 0, 0, And this part of town was the bad part because it was always noisy and it was impossible to sleep 
+6, 0, 0, And I hated Luka 
+7, 0, 0, who was the boy who kept hitting me even when I did nothing wrong . ' 
+620 9
+[(6, 1)]
+1, 0, 1, ' i asked you where he went 
+2, 0, 0, ' he repeated 
+3, 0, 0, ' your father 
+4, 0, 0, The professor of literature 
+5, 0, 0, Where did he go when he left Germany 
+6, 0, 0, ' Lieutenant Kotler 's face grew a little red and he stuttered somewhat as he spoke 
+7, 0, 0, I believe I believe he is currently in Switzerland 
+8, 0, 0, ' he said finally 
+9, 1, 0, ' the last I heard he was teaching at a university in Berne . ' 
+635 7
+[(4, 4)]
+1, 0, 0, Bruno got to the end of his sentence and realized that his voice had gone very quiet 
+2, 0, 0, These were things that Shmuel had told him 
+3, 1, 1, but for some reason he had not really understood at the time how sad that must have made his friend 
+4, 0, 0, When Bruno said them out loud himself he felt terrible that he had not tried to say anything to cheer Shmuel up and instead had started talking about something silly 
+5, 0, 0, like exploring 
+6, 0, 0, i 'll say sorry for that tomorrow 
+7, 0, 0, he told himself . 
+652 3
+[(3, 3)]
+1, 0, 0, Bruno had not seen his grandmother since leaving Berlin but he had thought about her every day 
+2, 0, 0, The things he remembered most about her were the productions that she and he and Gretel performed at Christmas and birthdays and how she always had the perfect costume to 
+3, 0, 0, When he thought that they would never be able to do that again it made him very sad indeed . 
+669 4
+[(2, 3)]
+1, 0, 0, Miss Smith 's further confidences were interrupted by the aunts and behind them 
+2, 1, 0, to Maggie 's great surprise 
+3, 0, 0, Mr Warlock and his son 
+4, 1, 1, The sudden descent of these gentlemen upon the still lingering echoes of Miss Caroline Smith 's critical and explanatory remarks embarrassed Maggie . 
+696 6
+[(6, 6)]
+1, 0, 1, I imagined you falling in love with me 
+2, 0, 0, proposing me 
+3, 0, 0, our wedding 
+4, 0, 0, our children 
+5, 0, 0, we growing old together and i dying before you in your arms 
+6, 0, 0, But it hurts when you have someone in your heart but you cant have that person in you arms . 
+727 5
+[(1, 3)]
+1, 1, 1, The problem was that he worried about his image 
+2, 0, 0, especially after the Fortune article 
+3, 0, 0, He did not want to accept the new grant unless the board canceled his old options at the same time 
+4, 0, 0, But to do so would have adverse accounting implications 
+5, 0, 0, because it would be effectively repricing the old options . 
+728 4
+[(3, 3)]
+1, 0, 0, He 's a one-of-a-kind person a genius 
+2, 0, 0, ubinstein 's case was a little more contentious 
+3, 1, 1, He was upset by Cook 's ascendency and frazzled after working for nine years under Jobs 
+4, 0, 0, Their shouting matches became more frequent . 
+737 6
+[(5, 6)]
+1, 0, 0, Even though Lisa did not move west 
+2, 0, 0, Jobs was pleased at how the reconciliation had worked out 
+3, 0, 0, I had not been sure I wanted her to visit 
+4, 0, 0, because I was sick and didnt want other complications 
+5, 1, 0, But im very glad she came 
+6, 0, 0, It helped settle a lot of things in me 
+746 1
+[(1, 1)]
+1, 1, 1, " I feel really very angry with your slave for alarming his Majesty by the news he brought him . " 
+755 16
+[(6, 6), (6, 7)]
+1, 0, 0, The judge 
+2, 0, 0, however 
+3, 0, 0, would say nothing about this 
+4, 0, 0, and lost no time in sending men to fetch away all that Alnaschar had taken from the house 
+5, 0, 0, When everything had been moved and placed under his roof he ordered my brother to leave the town and never more to enter it on peril of his life 
+6, 0, 0, fearing that if he returned he might seek justice from the Caliph 
+7, 0, 0, Alnaschar obeyed 
+8, 0, 0, and was on his way to a neighbouring city when he fell in with a band of robbers 
+9, 0, 0, who stripped him of his clothes and left him naked by the roadside 
+10, 0, 0, Hearing of his plight 
+11, 0, 0, I hurried after him to console him for his misfortunes 
+12, 0, 0, and to dress him in my best robe 
+13, 0, 0, I then brought him back disguised 
+14, 0, 0, under cover of night 
+15, 0, 0, to my house 
+16, 0, 0, where I have since given him all the care I bestow on my other brothers . 
+757 8
+[(7, 7)]
+1, 0, 0, " Ah 
+2, 0, 0, poor Sindbad 
+3, 0, 0, " he cried 
+4, 0, 0, " I was wondering what could have become of you 
+5, 0, 0, When I went to the forest I found the tree newly uprooted 
+6, 0, 0, and the arrows lying beside it 
+7, 1, 1, and I feared I should never see you again 
+8, 0, 0, Pray tell me how you escaped death . " 
+767 8
+[(5, 5)]
+1, 0, 0, " Princess 
+2, 0, 0, " I replied 
+3, 1, 1, " I see it is only fear of the genius that makes you act like this 
+4, 0, 0, For myself 
+5, 0, 0, I dread him so little that I mean to break his talisman in pieces 
+6, 0, 0, Awful though you think him 
+7, 0, 0, he shall feel the weight of my arm 
+8, 0, 0, and I herewith take a solemn vow to stamp out the whole race . " 
+779 7
+[(3, 3)]
+1, 0, 1, As a small child he never obeyed the impulse to take a piece of cake without looking around to see if his mother and father approved . He would not 
+2, 0, 0, in the whole-hearted impulsive way of children 
+3, 1, 1, but always held back in his enjoyment as if he feared that perhaps he was not doing just right . When he started to go to school his fear of 
+4, 0, 0, though in reality he was bright . The other children called him a " sissy 
+5, 0, 0, " mistaking his conscientiousness for cowardice . This grieved him very much 
+6, 0, 0, and his father undertook to educate him in " rough " ways 
+7, 0, 0, in fighting and wrestling . 
+780 8
+[(7, 7)]
+1, 0, 0, They are in the position of the unfortunate swain who sang 
+2, 1, 0, " How happy I could be with either 
+3, 0, 1, were the other dear charmer away 
+4, 0, 0, Mis one of these helpless ambivalent folk 
+5, 0, 1, always running to others for advice and perplexed to a frenzy by the choices of life " What shall I do 
+6, 0, 0, " is his prime question 
+7, 0, 0, largely because he fears to commit himself to any line of action . Once a man chooses 
+8, 0, 0, he shuts a great many doors of opportunity and gambles with Fate that he has chosen right 
+786 8
+[(2, 2)]
+1, 0, 0, The prince was not asleep 
+2, 0, 1, and as he lay awake moaning over all the sad events which had separated him from his wife 
+3, 0, 0, he thought he heard a knock at the garden door 
+4, 0, 0, He went to open it 
+5, 0, 0, and was immediately seized by the captain and sailors 
+6, 0, 0, who without a word of explanation forcibly bore him off to the boat 
+7, 0, 0, which took them back to the ship without loss of time 
+8, 0, 0, No sooner were they on board than they weighed anchor and set sail . 
+788 9
+[(3, 6)]
+1, 0, 0, Camaralzaman took the talisman and 
+2, 0, 0, holding it to the light 
+3, 1, 0, cried with surprise 
+4, 0, 0, " Sire 
+5, 0, 0, you ask me the use of this talisman 
+6, 0, 0, Alas 
+7, 0, 0, hitherto it has been only a source of misfortune to me 
+8, 0, 0, being the cause of my separation from the one I love best on earth 
+9, 0, 0, The story is so sad and strange that I am sure your Majesty will be touched by it if you will permit me to tell it you . " 
+799 10
+[(10, 10)]
+1, 0, 0, The prince at once seized the opening thus given him 
+2, 1, 0, and told the whole story of his treatment by the Princess of Bengal 
+3, 0, 0, not even concealing the fact that she had fallen in love with him 
+4, 0, 0, " And 
+5, 0, 0, Sire 
+6, 0, 0, " ended the prince 
+7, 0, 0, " having given my royal word that you would not refuse your consent to our marriage 
+8, 0, 0, I persuaded her to return with me on the Indian 's horse 
+9, 0, 0, I have left her in one of your Highness 's country houses 
+10, 0, 0, where she is waiting anxiously to be assured that I have not promised in vain 
+811 21
+[(16, 16)]
+1, 0, 0, November 13 
+2, 0, 0, - Carrie sent out invitations to Gowing 
+3, 0, 0, the Cummings 
+4, 0, 0, to Mr 
+5, 0, 0, and Mrs 
+6, 0, 0, James ( of Sutton ) 
+7, 0, 0, and Mr 
+8, 0, 0, Stillbrook 
+9, 0, 0, I wrote a note to Mr 
+10, 0, 0, Franching 
+11, 0, 0, of Peckham 
+12, 0, 0, Carrie said we may as well make it a nice affair 
+13, 0, 0, and why not ask our principal 
+14, 0, 0, Mr 
+15, 0, 0, Perkupp 
+16, 1, 1, I said I feared we were not quite grand enough for him 
+17, 0, 0, Carrie said there was " no offence in asking him 
+18, 0, 0, I said : " Certainly not 
+19, 0, 0, " and I wrote him a letter 
+20, 0, 0, Carrie confessed she was a little disappointed with Daisy Mutlar 's appearance 
+21, 0, 0, but thought she seemed a nice girl . 
+813 12
+[(3, 3)]
+1, 0, 0, fter Gowing left 
+2, 0, 0, Lupin came in 
+3, 0, 0, and in his anxiety to please Daisy Mutlar 
+4, 0, 0, carped at and criticised the arrangements 
+5, 0, 0, and 
+6, 0, 0, in fact 
+7, 0, 0, disapproved of everything 
+8, 0, 0, including our having asked our old friend Cummings 
+9, 0, 0, who 
+10, 0, 0, he said 
+11, 0, 0, would look in evening dress like a green grocer engaged to wait 
+12, 1, 1, and who must not be surprised if Daisy took him for one . 
+814 11
+[(8, 8)]
+1, 0, 0, At ten o'clock we went down to supper 
+2, 0, 0, and from the way Gowing and Cummings ate you would have thought they had not had a meal for a month 
+3, 0, 0, I told Carrie to keep something back in case Mr 
+4, 0, 0, Perkupp should come by mere chance 
+5, 0, 0, Gowing annoyed me very much by filling a large tumbler of champagne 
+6, 0, 0, and drinking it straight off 
+7, 0, 0, He repeated this action 
+8, 1, 1, and made me fear our half-dozen of champagne would not last out 
+9, 0, 0, I tried to keep a bottle back 
+10, 0, 0, but Lupin got hold of it 
+11, 0, 0, and took it to the side table with Daisy and Frank Mutlar . 
+821 13
+[(12, 13)]
+1, 0, 0, In the evening Lupin arrived home early 
+2, 0, 1, and seemed a little agitated 
+3, 0, 0, I said : " What 's up 
+4, 0, 0, my boy 
+5, 0, 0, " He hesitated a good deal 
+6, 0, 0, and then said : " You know those Parachikka Chlorates I advised you to invest 20 pounds in 
+7, 0, 0, I replied : " Yes 
+8, 0, 0, they are all right 
+9, 0, 0, I trust 
+10, 0, 0, " He replied : " Well 
+11, 0, 0, no 
+12, 1, 0, To the surprise of everybody 
+13, 0, 0, they have utterly collapsed 
+831 11
+[(6, 6)]
+1, 0, 0, These separations from Grant were most annoying 
+2, 0, 0, but they could not be helped 
+3, 0, 0, so 
+4, 0, 0, when all was settled here 
+5, 0, 1, I bade him adieu both of us saying we would do our best and set out on my journey 
+6, 0, 0, thinking what a terrible thing it was I could not prevail on my men to view things as I did 
+7, 0, 0, Neither my experience with native chiefs 
+8, 0, 0, nor my money and guns 
+9, 0, 0, were of any use to me 
+10, 1, 0, simply because my men were such incomprehensible fools 
+11, 0, 0, though many of them who had travelled before ought to have known better . 
+846 15
+[(5, 5)]
+1, 0, 0, The day was now gone 
+2, 0, 0, so torches were lit 
+3, 0, 0, and we were ordered to go 
+4, 0, 0, though as yet I had not been able to speak one word I wished to impart about Petherick and Grant 
+5, 0, 0, for my interpreters were so afraid of the king they dared not open their mouths until they were spoken to 
+6, 0, 0, The king was now rising to go 
+7, 0, 0, when 
+8, 1, 1, in great fear and anxiety that the day would be lost 
+9, 0, 0, I said 
+10, 0, 0, in Kisuahili 
+11, 0, 0, " I wish you would send a letter by post to Grant 
+12, 0, 0, and also send a boat up the Kitangule 
+13, 0, 0, as far as Rumanika 's palace 
+14, 0, 0, for him 
+15, 0, 0, for he is totally unable to walk . " 
+849 16
+[(9, 11)]
+1, 0, 0, 5th 
+2, 0, 0, Alarmed at having got involved in something that looked like court intrigues 
+3, 0, 0, I called up N'yamgundu 
+4, 0, 0, told him all that happened yesterday 
+5, 0, 0, both at the two courts and with Maula at home 
+6, 0, 1, and begged him to apply to the king for a meeting of five elders 
+7, 0, 0, that a proper understanding might be arrived at 
+8, 0, 0, but instead of doing as I desired 
+9, 0, 0, he got into a terrible fright 
+10, 0, 0, calling Maula 
+11, 0, 0, and told me if I pressed the matter in this way men would lose their lives 
+12, 0, 0, Meanwhile the cunning blackguard Maula begged for pardon 
+13, 0, 0, said I quite misunderstood his meaning 
+14, 1, 0, all he had said was that I was very fortunate 
+15, 0, 0, being in such favour at court 
+16, 0, 0, for the king and queen both equally loved me . 
+861 1
+[(1, 1)]
+1, 1, 1, Then a more disconcerting discovery began to dawn on him : He was smarter than his parents . 
+868 7
+[(2, 2), (2, 3)]
+1, 0, 0, She could not pretend that she was sorry that her father had died 
+2, 0, 0, and yet she missed him because she knew very well that she was now no one 's business 
+3, 0, 0, that she was utterly and absolutely alone in the universe 
+4, 0, 0, It might be said that she could not be utterly alone when she had her Uncle Mathew 
+5, 0, 0, but 
+6, 0, 0, although she was ignorant of life 
+7, 0, 0, she knew her Uncle Mathew 
+869 7
+[(6, 6)]
+1, 0, 0, He was rather pathetic 
+2, 0, 0, having drunk nothing out of respect to the occasion 
+3, 0, 0, he felt 
+4, 0, 0, somewhere deep down in him 
+5, 0, 0, a persistent exaltation that his brother Charles was dead 
+6, 1, 0, but he knew that it was not decent to allow this feeling to conquer him and he was truly anxious to protect and comfort his niece so well as he 
+7, 0, 0, Early in the afternoon he suggested that they should go for a walk . 
+882 3
+[(1, 1)]
+1, 0, 1, She hated that he should call her Miss Maggie 
+2, 0, 0, He had always treated her with considerable respect 
+3, 0, 0, but to-day she fancied that he patronised her . 
+885 6
+[(2, 5)]
+1, 0, 0, Her lips quivered 
+2, 0, 0, again she was near tears 
+3, 0, 0, and again 
+4, 0, 0, as it had been on her walk with Uncle Mathew 
+5, 1, 1, her regret was not for her father but for the waste that her life with him had been 
+6, 0, 0, But there was something in her aunt that prevented complete confidence . 
+889 6
+[(1, 1)]
+1, 0, 0, Her aunt stood at her side and once again Maggie felt irritation at her composure 
+2, 0, 0, " After all 
+3, 0, 0, he was her brother 
+4, 0, 0, " she thought 
+5, 0, 0, She remembered the feeling and passion with which her aunt had repeated the Twenty-third Psalm 
+6, 1, 0, She was puzzled . 
+892 9
+[(7, 7)]
+1, 0, 0, Thus her aunt found her 
+2, 0, 0, later in the evening 
+3, 0, 0, She was touched by the figure 
+4, 0, 1, the shabby black frock 
+5, 0, 1, the white tired face 
+6, 0, 0, She had been honestly disappointed in her niece 
+7, 0, 0, disappointed in her plainness 
+8, 0, 0, in her apparent want of heart 
+9, 0, 0, in her silence and moroseness . 
+909 4
+[(2, 4)]
+1, 0, 1, Fainted right off there in the drawing-room 
+2, 0, 0, Or her aunts saying anxiously to one another : " Well 
+3, 0, 0, I didnt know she was as delicate as that 
+4, 0, 0, I hope she wont be always ill 
+939 6
+[(3, 3)]
+1, 0, 0, He had an irritating habit of never finishing his sentences 
+2, 0, 0, and the people he knew answered him in the same inconclusive fashion 
+3, 1, 1, The pool in the cellar naturally annoyed him 
+4, 0, 0, but he did nothing very practical about it 
+5, 0, 0, allowed it to remain there 
+6, 0, 0, and discussed it with a Professor of Chemistry . 
+949 4
+[(1, 2)]
+1, 1, 0, For a moment Maggie was frightened 
+2, 0, 1, She was here in a strange hotel in a strange room with a man whom she scarcely knew 
+3, 0, 0, Then she looked up into young Warlock 's face and was reassured 
+4, 0, 0, She could trust him . 
+971 9
+[(2, 2)]
+1, 0, 0, a sinner like the rest of you 
+2, 1, 1, live nevertheless in the fear of hell fire 
+3, 0, 0, Hell fire has become 
+4, 0, 0, I think 
+5, 0, 0, to many of the present generation a mockery and a derision 
+6, 0, 0, I come to tell you that it is no mockery 
+7, 0, 0, that it as surely lies there 
+8, 0, 0, a blazing furnace 
+9, 0, 0, in front of us as though we saw it with our own eyes 
+985 3
+[(2, 2)]
+1, 0, 1, I must just slip out of your path and youll forget me 
+2, 1, 0, and then youll meet a much better man than I and be happy 
+3, 0, 0, im queer I have funny moods that last for days and days sometimes . 
+990 12
+[(12, 10), (12, 11)]
+1, 0, 0, " I only said might 
+2, 0, 0, mind you 
+3, 0, 0, " said Thurston 
+4, 0, 0, smiling 
+5, 0, 1, " It 's only a short-sighted fool would think that of you really 
+6, 0, 0, And im not a fool 
+7, 0, 0, really 
+8, 0, 0, im not 
+9, 0, 0, i 've got quite another idea of you 
+10, 0, 0, My idea is that you 're one of us whether you want to be or not 
+11, 0, 0, and that you always will be one of us 
+12, 0, 0, That 's why I like you and will be a friend to you too . " 
+999 7
+[(7, 6)]
+1, 0, 0, " Oh 
+2, 0, 0, nothing 
+3, 0, 0, " said Maggie 
+4, 0, 0, slowly 
+5, 0, 0, Then she went on 
+6, 0, 1, laughing : " i 've been asked out to tea for the first time in my life 
+7, 1, 0, And im terribly frightened . " 
+1001 5
+[(4, 3)]
+1, 0, 0, " Two visions 
+2, 0, 0, Just like the first 
+3, 0, 1, The blazing light and the voice and telling him that the last night of the year 's to be the time 
+4, 1, 1, Caroline then began to be carried away by her excitement 
+5, 0, 0, She talked faster and faster . 
+1002 7
+[(5, 3)]
+1, 0, 0, Well 
+2, 0, 0, anyway 
+3, 0, 1, Miss Avies is the strongest of the lot really 
+4, 0, 0, i 'd back her against anybody 
+5, 1, 0, im terrified of her myself 
+6, 0, 0, I tell you frankly 
+7, 0, 0, She 'd wring any one 's neck for twopence . 
+1003 8
+[(7, 8)]
+1, 0, 0, " Well 
+2, 0, 1, I know Martin Warlock 's going to ask me 
+3, 1, 0, It 's been getting closer and closer 
+4, 0, 0, I expect he will this week 
+5, 0, 0, Of course 
+6, 0, 0, he is n't so safe as William 
+7, 0, 0, but he 's much more exciting 
+8, 1, 0, And he 's got quite a lot of money of his own . " 
+1006 4
+[(2, 3), (4, 3)]
+1, 0, 0, Maggie told her about the visit 
+2, 0, 0, Aunt Anne looked at her curiously 
+3, 1, 0, She seemed so weak and frail that Maggie suddenly felt warm maternal love 
+4, 0, 1, Rather shyly she put her hand upon her aunt 's : " I wont go away until you 're better " 
+1008 7
+[(7, 7)]
+1, 0, 0, Some one came forward to her 
+2, 0, 0, some one so kind and comforting 
+3, 0, 0, so easy and unsurprised that Maggie suddenly felt herself steadied as though a friend had put an arm around her 
+4, 0, 0, Before she had felt : " This light I am shabby 
+5, 0, 0, Now she felt 
+6, 0, 0, " I am with friendly people 
+7, 1, 1, She was surprised at the way that she was suddenly at her ease . 
+1031 6
+[(1, 2), (1, 5)]
+1, 1, 0, It was a terrific excitement for her 
+2, 0, 1, apart altogether from her love for Martin 
+3, 0, 0, She had 
+4, 0, 0, of course 
+5, 0, 0, never been to a theatre 
+6, 0, 0, She could not imagine in the least what it was like . 
+1035 6
+[(2, 2)]
+1, 0, 0, Martin moved on a little and stood waiting for her 
+2, 1, 1, She was confused and embarrassed but pleased too because he seemed glad to see her 
+3, 0, 0, He looked the very picture of a well-dressed 
+4, 0, 0, kindly 
+5, 0, 0, genial friend who had known her all his life 
+6, 0, 0, He was wearing a beautifully shining top-hat and his stiff white collar gleamed . 
+1051 8
+[(5, 5)]
+1, 0, 0, Martin 
+2, 0, 0, dear 
+3, 0, 0, try and write every day 
+4, 0, 0, even if it 's only the shortest line 
+5, 0, 0, because it is dreadful to be shut up all day 
+6, 0, 1, and I think of you all the time and wonder how you are 
+7, 1, 0, dont be unhappy 
+8, 0, 0, Martin that 's the one thing I could n't bear . 
+1058 8
+[(3, 3)]
+1, 0, 0, I wont leave you 
+2, 0, 0, He would like to have gone on and asked other questions 
+3, 1, 1, but the old man seemed so worn out and exhausted that he was afraid of distressing him 
+4, 0, 0, so he just sat there 
+5, 0, 0, his hands on his shoulders 
+6, 0, 0, and suddenly the white head nodded 
+7, 0, 0, the beard sank over the breast and huddled up in the chair as though life itself had left him 
+8, 0, 0, the old man slept . 
+1070 2
+[(1, 1)]
+1, 1, 1, She was now so touched by the pathos of his helplessness that she could think of nothing else and longed to go to him and comfort him 
+2, 0, 0, Time stole on and it was now ten minutes to twelve . 
+1091 9
+[(3, 2)]
+1, 0, 0, " What 
+2, 0, 0, Marry him and live in Skeaton 
+3, 0, 0, " Millicent was frankly amazed 
+4, 0, 0, " Why 
+5, 0, 0, Skeaton 's awful 
+6, 0, 0, and the people in it are awful 
+7, 0, 0, and Grace is awful 
+8, 0, 0, In the summer it 's all nigger minstrels and bathing tents 
+9, 0, 0, and in the winter there is n't a soul " Millicent shivered . 
+1097 9
+[(5, 5)]
+1, 0, 0, Maggie 
+2, 0, 0, when she saw this in the faces of Philip and Mr 
+3, 0, 0, Trenchard 
+4, 0, 0, and even of Millicent 
+5, 1, 0, was glad that she was engaged 
+6, 0, 0, She was somebody 's now 
+7, 0, 1, she had friends and a home and work now 
+8, 0, 0, and she would banish all that other world for ever 
+9, 0, 0, For ever 
+1124 2
+[(1, 1)]
+1, 1, 0, The prince and princess were now entirely happy 
+2, 0, 1, and months slipped by unconsciously in the enjoyment of each other 's society . 
+1138 7
+[(5, 5)]
+1, 0, 0, In his coat was a letter stating that he saw no use in living 
+2, 0, 1, that he was not taking his life because of disappointment in love but because he felt that he never could enjoy what others found pleasurable 
+3, 0, 0, and that he was an anomaly 
+4, 0, 0, a curse to himself and others . He was sent away to a sanatorium but left it and came home . He began to eat and drink again 
+5, 0, 0, found he could sleep at night ( the sleepless night had filled him with despair ) and soon swung back into his " normal " state . He passes throughout 
+6, 0, 0, wondering why his grip on content and desire is so slender 
+7, 0, 0, but also he thinks himself of a finer clay than his fellows . As a complement to this case let me cite that of the ex-soldier S 
+1160 13
+[(9, 11)]
+1, 0, 0, There was a perfect plague of State banks 
+2, 0, 0, great and small 
+3, 0, 0, in those days 
+4, 0, 1, issuing notes practically without regulation upon insecure and unknown assets and failing and suspending with astonishing rapidity 
+5, 0, 0, and a knowledge of all these was an important requirement of Mr 
+6, 0, 0, Cowperwood 's position 
+7, 0, 0, As a result 
+8, 0, 0, he had become the soul of caution 
+9, 0, 0, Unfortunately 
+10, 0, 0, for him 
+11, 0, 0, he lacked in a great measure the two things that are necessary for distinction in any field magnetism and vision 
+12, 0, 0, He was not destined to be a great financier 
+13, 0, 0, though he was marked out to be a moderately successful one 
+1168 16
+[(15, 15)]
+1, 0, 0, Measuring twenty by twenty-four and finished in imitation cherry 
+2, 0, 0, with a set of new Sheraton parlor furniture it presented a quaintly harmonious aspect 
+3, 0, 1, Since Henry had become teller the family had acquired a piano a decided luxury in those days brought from Europe 
+4, 0, 0, and it was intended that Anna Adelaide 
+5, 0, 0, when she was old enough 
+6, 0, 0, should learn to play 
+7, 0, 0, There were a few uncommon ornaments in the room a gas chandelier for one thing 
+8, 0, 0, a glass bowl with goldfish in it 
+9, 0, 0, some rare and highly polished shells 
+10, 0, 0, and a marble Cupid bearing a basket of flowers 
+11, 0, 0, It was summer time 
+12, 0, 0, the windows were open 
+13, 0, 0, and the trees outside 
+14, 0, 0, with their widely extended green branches 
+15, 0, 0, were pleasantly visible shading the brick sidewalk 
+16, 0, 0, Uncle Seneca strolled out into the back yard . 
+1182 7
+[(2, 2)]
+1, 0, 1, It was only two weeks later that Frank took his departure from Waterman & Company 
+2, 1, 0, interested and yet in no way flustered by his new prospects 
+3, 0, 0, And great was the grief of Mr 
+4, 0, 0, George Waterman 
+5, 0, 0, As for Mr 
+6, 0, 0, Henry Waterman 
+7, 0, 0, he was actually irritated by this defection . 
+1193 12
+[(8, 8)]
+1, 0, 0, At first 
+2, 0, 0, when Frank called 
+3, 0, 0, she did not have much to say 
+4, 0, 0, She was gracious 
+5, 0, 0, but the burden of conversation fell on her husband 
+6, 0, 1, Cowperwood watched the varying expression of her face from time to time 
+7, 0, 0, and if she had been at all psychic she must have felt something 
+8, 0, 0, Fortunately she was not 
+9, 0, 0, Semple talked to him pleasantly 
+10, 0, 0, because in the first place Frank was becoming financially significant 
+11, 0, 0, was suave and ingratiating 
+12, 0, 0, and in the next place he was anxious to get richer and somehow Frank represented progress to him in that line . 
+1197 12
+[(4, 4)]
+1, 0, 0, He could not think of her reasonably 
+2, 0, 0, and he did not talk of her much to any one 
+3, 0, 1, His family knew that he went to see her 
+4, 0, 1, but there had grown up in the Cowperwood family a deep respect for the mental force of Frank 
+5, 0, 0, He was genial 
+6, 0, 0, cheerful 
+7, 0, 0, gay at most times 
+8, 0, 0, without being talkative 
+9, 0, 0, and he was decidedly successful 
+10, 0, 0, Everybody knew he was making money now 
+11, 0, 0, His salary was fifty dollars a week 
+12, 0, 0, and he was certain soon to get more . 
+1198 13
+[(11, 10)]
+1, 0, 1, Money was so scarce that it could fairly be said not to exist at all 
+2, 0, 0, Capital 
+3, 0, 0, frightened by uncertain trade and money conditions 
+4, 0, 0, everywhere 
+5, 0, 0, retired to its hiding places in banks 
+6, 0, 0, vaults 
+7, 0, 0, tea kettles 
+8, 0, 0, and stockings 
+9, 0, 0, The country seemed to be going to the dogs 
+10, 0, 0, War with the South or secession was vaguely looming up in the distance 
+11, 0, 0, The temper of the whole nation was nervous 
+12, 0, 0, People dumped their holdings on the market in order to get money 
+13, 0, 0, Tighe discharged three of his clerks . 
+1201 13
+[(10, 8)]
+1, 0, 0, He longed to become a stable financier 
+2, 0, 0, but 
+3, 0, 0, now that he saw the inside of the brokerage business 
+4, 0, 0, he was not so sure that he wanted to stay in it 
+5, 0, 0, Gambling in stocks 
+6, 0, 0, according to conditions produced by this panic 
+7, 0, 0, seemed very hazardous 
+8, 0, 0, A number of brokers failed 
+9, 1, 0, He saw them rush in to Tighe with anguished faces and ask that certain trades be canceled 
+10, 0, 0, Their very homes were in danger 
+11, 0, 0, they said 
+12, 0, 0, They would be wiped out 
+13, 0, 0, their wives and children put out on the street . 
+1215 27
+[(11, 1)]
+1, 0, 1, Those who recall the early years of their married life can best realize the subtle changes which this new condition brought to Frank 
+2, 0, 0, for 
+3, 0, 0, like all who accept the hymeneal yoke 
+4, 0, 0, he was influenced to a certain extent by the things with which he surrounded himself 
+5, 0, 0, Primarily 
+6, 0, 0, from certain traits of his character 
+7, 0, 0, one would have imagined him called to be a citizen of eminent respectability and worth 
+8, 0, 0, He appeared to be an ideal home man 
+9, 0, 0, He delighted to return to his wife in the evenings 
+10, 0, 0, leaving the crowded downtown section where traffic clamored and men hurried 
+11, 1, 0, Here he could feel that he was well stationed and physically happy in life 
+12, 0, 0, The thought of the dinner table with candles upon it ( his idea ) 
+13, 0, 0, the thought of Lillian in a trailing gown of pale blue or green silk he liked her in those colors 
+14, 0, 0, the thought of a large fireplace flaming with solid lengths of cord wood 
+15, 0, 0, and Lillian snuggling in his arms 
+16, 0, 0, gripped his immature imagination 
+17, 0, 0, As has been said before 
+18, 0, 0, he cared nothing for books 
+19, 0, 0, but life 
+20, 0, 0, pictures 
+21, 0, 0, trees 
+22, 0, 0, physical contact these 
+23, 0, 0, in spite of his shrewd and already gripping financial calculations 
+24, 0, 0, held him 
+25, 0, 0, To live richly 
+26, 0, 0, joyously 
+27, 0, 0, fully his whole nature craved that . 
+1219 16
+[(13, 13)]
+1, 0, 0, And Mrs 
+2, 0, 0, Cowperwood 
+3, 0, 0, in spite of the difference in their years 
+4, 0, 0, appeared to be a fit mate for him at this time 
+5, 0, 0, She was once awakened 
+6, 0, 0, and for the time being 
+7, 0, 0, clinging 
+8, 0, 0, responsive 
+9, 0, 0, dreamy 
+10, 0, 0, His mood and hers was for a baby 
+11, 0, 0, and in a little while that happy expectation was whispered to him by her 
+12, 0, 0, She had half fancied that her previous barrenness was due to herself 
+13, 1, 1, and was rather surprised and delighted at the proof that it was not so 
+14, 0, 0, It opened new possibilities a seemingly glorious future of which she was not afraid 
+15, 0, 0, He liked it 
+16, 0, 0, the idea of self duplication . 
+1223 9
+[(4, 4)]
+1, 0, 0, The children took up a great deal of her time 
+2, 0, 0, However 
+3, 0, 0, Cowperwood was not troubled about this 
+4, 1, 1, It struck him as delightful and exceedingly worth while that she should be so devoted 
+5, 0, 0, At the same time 
+6, 0, 0, her lethargic manner 
+7, 0, 0, vague smile and her sometimes seeming indifference 
+8, 0, 0, which sprang largely from a sense of absolute security 
+9, 0, 0, attracted him also . 
+1234 9
+[(4, 3)]
+1, 0, 0, Sympathy and affection were great things 
+2, 0, 0, but desire and charm must endure or one was compelled to be sadly conscious of their loss 
+3, 0, 1, So often now he saw young girls who were quite in his mood 
+4, 1, 0, and who were exceedingly robust and joyous 
+5, 0, 0, It was fine 
+6, 0, 0, advisable 
+7, 0, 0, practical 
+8, 0, 0, to adhere to the virtues as laid down in the current social lexicon 
+9, 0, 0, but if you had a sickly wife . 
+1236 11
+[(9, 9)]
+1, 0, 0, He was not at all sure 
+2, 0, 0, for instance 
+3, 0, 0, that the negroes could be made into anything much more significant than they were 
+4, 0, 0, At any rate 
+5, 0, 0, it was a long uphill struggle for them 
+6, 0, 0, of which many future generations would not witness the conclusion 
+7, 0, 0, He had no particular quarrel with the theory that they should be free 
+8, 0, 0, he saw no particular reason why the South should not protest vigorously against the destruction of their property and their system 
+9, 0, 0, It was too bad that the negroes as slaves should be abused in some instances 
+10, 0, 0, He felt sure that that ought to be adjusted in some way 
+11, 0, 0, but beyond that he could not see that there was any great ethical basis for the contentions of their sponsors . 
+1241 21
+[(21, 8), (21, 9)]
+1, 0, 0, He was not of those who complained bitterly of the excessive war taxes 
+2, 0, 0, though he knew them to be trying to many 
+3, 0, 0, Some of the stories of death and disaster moved him greatly 
+4, 0, 0, but 
+5, 0, 0, alas 
+6, 0, 0, they were among the unaccountable fortunes of life 
+7, 0, 0, and could not be remedied by him 
+8, 0, 1, So he had gone his way day by day 
+9, 0, 0, watching the coming in and the departing of troops 
+10, 0, 0, seeing the bands of dirty 
+11, 0, 0, disheveled 
+12, 0, 0, gaunt 
+13, 0, 0, sickly men returning from the fields and hospitals 
+14, 0, 0, and all he could do was to feel sorry 
+15, 0, 0, This war was not for him 
+16, 0, 0, He had taken no part in it 
+17, 0, 0, and he felt sure that he could only rejoice in its conclusion not as a patriot 
+18, 0, 0, but as a financier 
+19, 0, 0, It was wasteful 
+20, 0, 0, pathetic 
+21, 0, 0, unfortunate . 
+1256 16
+[(10, 8)]
+1, 0, 0, " Well 
+2, 0, 0, it 's lovely now 
+3, 0, 0, is n't it 
+4, 0, 0, " breathed Mrs 
+5, 0, 0, Butler 
+6, 1, 0, " Sure youll be happy here 
+7, 0, 0, Sure you will 
+8, 0, 1, When Eddie fixed the house we 're in now 
+9, 0, 0, says I : ' eddie 
+10, 0, 0, it 's almost too fine for us altogether surely it is 
+11, 0, 0, ' and he says 
+12, 0, 0, says ' e 
+13, 0, 0, ' norah 
+14, 0, 0, nothing ' this side o' heavin or beyond is too good for you ' and he kissed me 
+15, 0, 0, Now what d'ye think of that fer a big 
+16, 0, 0, hulking ' gossoon 
+1259 6
+[(5, 4)]
+1, 0, 0, Aileen had swept on to Cowperwood and his mother 
+2, 0, 0, who was near him 
+3, 0, 0, She had removed from her arm the black satin ribbon which held her train and kicked the skirts loose and free 
+4, 1, 1, Her eyes gleamed almost pleadingly for all her hauteur 
+5, 0, 0, like a spirited collie 's 
+6, 0, 0, and her even teeth showed beautifully . 
+1286 25
+[(12, 10)]
+1, 0, 0, At the same time 
+2, 0, 0, in contemplating his wife in connection with all this he had many qualms 
+3, 0, 0, some emotional 
+4, 0, 0, some financial 
+5, 0, 0, While she had yielded to his youthful enthusiasm for her after her husband 's death 
+6, 0, 0, he had only since learned that she was a natural conservator of public morals the cold purity of the snowdrift in so far as the world might see 
+7, 0, 0, combined at times with the murky mood of the wanton 
+8, 0, 0, And yet 
+9, 0, 0, as he had also learned 
+10, 0, 1, she was ashamed of the passion that at times swept and dominated her 
+11, 0, 0, This irritated Cowperwood 
+12, 0, 0, as it would always irritate any strong 
+13, 0, 0, acquisitive 
+14, 0, 0, direct seeing temperament 
+15, 0, 0, While he had no desire to acquaint the whole world with his feelings 
+16, 0, 0, why should there be concealment between them 
+17, 0, 0, or at least mental evasion of a fact which physically she subscribed to 
+18, 0, 0, Why do one thing and think another 
+19, 0, 0, To be sure 
+20, 0, 0, she was devoted to him in her quiet way 
+21, 0, 0, not passionately ( as he looked back he could not say that she had ever been that ) 
+22, 0, 0, but intellectually 
+23, 0, 0, Duty 
+24, 0, 0, as she understood it 
+25, 0, 0, played a great part in this . 
+1311 13
+[(5, 4)]
+1, 0, 0, Then 
+2, 0, 0, after several years of this secret relationship 
+3, 0, 0, in which the ties of sympathy and understanding grew stronger instead of weaker 
+4, 0, 0, came the storm 
+5, 0, 0, It burst unexpectedly and out of a clear sky 
+6, 0, 0, and bore no relation to the intention or volition of any individual 
+7, 0, 1, It was nothing more than a fire 
+8, 0, 0, a distant one the great Chicago fire 
+9, 0, 0, October 7th 
+10, 0, 0, 1871 
+11, 0, 0, which burned that city its vast commercial section to the ground 
+12, 0, 0, and instantly and incidentally produced a financial panic 
+13, 0, 0, vicious though of short duration in various other cities in America . 
+1328 12
+[(7, 7)]
+1, 0, 0, Stener stood there ridiculously meditating when 
+2, 0, 0, as a matter of fact 
+3, 0, 0, his very financial blood was oozing away 
+4, 0, 0, Yet he was afraid to act 
+5, 1, 0, He was afraid of Mollenhauer 
+6, 0, 0, afraid of Cowperwood 
+7, 0, 0, afraid of life and of himself 
+8, 0, 0, The thought of panic 
+9, 0, 0, loss 
+10, 0, 0, was not so much a definite thing connected with his own property 
+11, 0, 0, his money 
+12, 0, 0, as it was with his social and political standing in the community . 
+1337 17
+[(2, 2)]
+1, 0, 0, " Why 
+2, 0, 1, your mother would die of a broken heart if she thought there was anybody could say the least word against ye 
+3, 0, 0, " pursued Butler 
+4, 0, 0, in a shaken voice 
+5, 0, 0, " This man has a family a wife and children 
+6, 0, 0, Ye ought n't to want to do anything ' to hurt them 
+7, 0, 0, they 'll have trouble enough 
+8, 0, 0, if im not mistaken facing ' what 's coming ' to them in the future 
+9, 0, 0, " and Butler 's jaw hardened just a little 
+10, 0, 0, " you 're a beautiful girl 
+11, 0, 0, you 're young 
+12, 0, 0, Ye have money 
+13, 0, 0, There 's dozens of young men'd be proud to make ye their wife 
+14, 0, 0, Whatever ye may be thinking ' or doing ' 
+15, 0, 0, dont throw away your life 
+16, 0, 0, dont destroy your immortal soul 
+17, 1, 0, dont break my heart entirely . " 
+1345 7
+[(3, 2)]
+1, 0, 0, They sat in a nice coffee shop 
+2, 0, 1, he was too nervous to say anything 
+3, 1, 0, she felt uncomfortable 
+4, 0, 0, waiting for coffee She kept on thinking 
+5, 0, 0, " Please 
+6, 0, 0, let it get over soon 
+7, 0, 0, let me go home 
+1364 1
+[(1, 1)]
+1, 1, 1, I was furious with him for breaking my favourite vase . 
+1375 1
+[(1, 1)]
+1, 1, 1, She was seething after her boss criticised her . 
+1376 1
+[(1, 1)]
+1, 1, 1, It makes me sad to see all those animals in cages at the zoo . 
+1382 2
+[(2, 1)]
+1, 1, 0, Once he asked a very strange question 
+2, 0, 1, The courtiers were dumb folded by his question . 
+1384 6
+[(3, 2)]
+1, 0, 0, But One Day 
+2, 0, 1, the boy did not answer any of the girl 's call or send a to any of her text throughout the day 
+3, 0, 0, The Girl was very worried that something was wrong 
+4, 0, 0, At night 
+5, 0, 0, she could n't even lie down not to talk of Sleep 
+6, 1, 0, she was sitting in her room crying . 
+1387 2
+[(2, 1)]
+1, 0, 0, A year after being fired from his job 
+2, 1, 0, Alan is still very bitter . 
+1394 2
+[(2, 1)]
+1, 0, 1, After his grandmother passed away 
+2, 1, 0, Ken was so grief-stricken he could n't get out of bed . 
+1408 2
+[(1, 1)]
+1, 0, 1, We are delighted that you will be coming to visit us 
+2, 1, 0, It will be so nice to have you here . 
+1410 2
+[(1, 1)]
+1, 1, 0, The actors were humiliated by the newspaper critic 's review of their new movie 
+2, 0, 1, The respected critic said the film was as pleasant as week old garbage rotting in the sun . 
+1413 2
+[(1, 1)]
+1, 0, 0, Patrick felt quite awkward going to his ex-girlfriend 's wedding 
+2, 0, 1, He thought maybe should n't go since it could be uncomfortable to see her again . 
+1431 6
+[(6, 1)]
+1, 0, 0, I moved to take an empty seat but an elderly man ran to occupy it 
+2, 0, 0, He looked tall 
+3, 0, 0, with a big belly 
+4, 0, 0, so I stood aside 
+5, 0, 0, I looked at him while standing in the packed bus 
+6, 0, 0, He gave a cunning smile and I abused him in my head . 
+1451 2
+[(2, 1)]
+1, 1, 1, I cant imagine my daughter Mariam ( she is 8 now ) go alone to a dental clinic to extract her tooth 
+2, 0, 0, 's scary for a child to face that alone . 
+1476 10
+[(10, 7)]
+1, 0, 0, At that point 
+2, 0, 0, the son hung up the phone 
+3, 0, 0, The parents heard nothing more from him 
+4, 0, 0, A few days later 
+5, 0, 0, however 
+6, 0, 1, they received a call from the San Francisco police 
+7, 0, 0, Their son had died after falling from a building 
+8, 0, 0, they were told 
+9, 0, 0, The police believed it was suicide 
+10, 1, 0, The grief-stricken parents flew to San Francisco and were taken to the city morgue to identify the body of their son . 
+1477 3
+[(2, 3)]
+1, 1, 0, They recognized him 
+2, 0, 1, but to their horror they also discovered something they didnt know 
+3, 0, 0, their son had only one arm and one leg . 
+1482 4
+[(1, 1)]
+1, 0, 0, From Troy afar the women marvelling gazed At the Maid 's battle prowess 
+2, 0, 1, Suddenly A fiery passion for the fray hath seized antimachus ' daughter 
+3, 0, 0, meneptolemus ' wife 
+4, 0, 0, Tisiphone . 
+1485 10
+[(8, 8)]
+1, 0, 0, Now 
+2, 0, 0, it is just in describing such natural phenomena 
+3, 0, 0, and in blending them with the turmoil of battle 
+4, 0, 0, that Quintus is in his element 
+5, 0, 0, yet for such a scene he substitutes what is 
+6, 0, 0, by comparison 
+7, 0, 0, a lame and impotent conclusion 
+8, 0, 1, Of that awful cry that rang over the sea heralding the coming of Thetis and the Nymphs to the death rites of her son 
+9, 0, 0, and the panic with which it filled the host 
+10, 0, 0, Quintus is silent . 
+1494 3
+[(3, 3)]
+1, 0, 0, The never wearied might of Zeus 
+2, 1, 0, to earth Hurleth 
+3, 0, 1, what time he showeth forth to men Fury of thunderous roaring rain or swoop resist less of his shouting host of winds . 
+1511 3
+[(2, 2)]
+1, 0, 0, But rang the morion round his brows 
+2, 1, 1, His heart Kindled with terrible fury at the blow More than before against Antilochus 
+3, 0, 0, Like seething cauldron boiled his maddened might . 
+1512 3
+[(1, 1)]
+1, 1, 1, His soul was torn with agony for the son By black death slain 
+2, 0, 0, wild cry hastily To Thrasymedes did he send afar : " Hither to me 
+3, 0, 0, Thrasymedes war renowned 
+1522 4
+[(3, 4)]
+1, 0, 0, With multitudinous moaning 
+2, 0, 0, veiled in mist Unearthly 
+3, 1, 1, Trojans over all the plain And Danaans marvelled 
+4, 0, 0, seeing that great host Vanishing with their King . 
+1533 6
+[(4, 4)]
+1, 0, 0, So this way 
+2, 0, 0, that way scattered they before The hurtling stones 
+3, 0, 0, the sword 
+4, 0, 0, the might of AiasIn utter panic from the war they fled 
+5, 0, 0, In huddled rout 
+6, 0, 0, like starlings from the swoop Of a death dealing hawk . 
+1535 7
+[(7, 7)]
+1, 0, 0, Then by those dark ships they thought Of white haired fathers left in halls afar 
+2, 0, 0, Of wives new wedded 
+3, 0, 0, who by couches cold Mourned 
+4, 0, 0, waiting 
+5, 0, 0, waiting 
+6, 1, 0, with their tender babes For husbands un returning 
+7, 0, 0, and they groaned In bitterness of soul A passion of grief Came over their hearts . 
+1543 8
+[(2, 2), (3, 2)]
+1, 0, 0, And do not 
+2, 1, 1, in the frenzy of thy grief for thy lost son 
+3, 0, 0, provoke to wrath the Lord Of Gods and men 
+4, 0, 0, Lo 
+5, 0, 0, even sons of Zeus 
+6, 0, 0, The Thunderking 
+7, 0, 0, have perished 
+8, 0, 0, over borne By evil fate . 
+1547 1
+[(1, 1)]
+1, 1, 1, Nor is there remedy Until one satisfy this clamorous guest Therefore these ate the meat of eventide In grief for achilles ' hard necessity Constrained them all . 
+1566 5
+[(2, 2)]
+1, 0, 0, What time he dared that awful deed 
+2, 0, 0, when groaned All Oeta as he burned alive 
+3, 0, 0, and passed His soul into the air 
+4, 0, 0, leaving the man far famous 
+5, 0, 0, to be numbered with the Gods . 
+1568 3
+[(2, 2)]
+1, 0, 0, I will give to him to wife My noble child Hermione 
+2, 1, 1, with gifts Many and goodly for her marriage dower With a glad heart 
+3, 0, 0, trow he shall not scorn Either his bride or high-born sire in law . 
+1594 3
+[(2, 2)]
+1, 0, 0, To the forecourt when they came Of that great mansion 
+2, 0, 0, found they there the Queen Deidameia in her sorrow of soul grief wasted 
+3, 1, 1, as when snow from mountain sides Before the sun and east wind wastes away . 
+1599 2
+[(1, 1)]
+1, 1, 1, And his feet eager for the course are still Never 
+2, 1, 0, his restless hooves are clattering aye . 
+1610 3
+[(1, 2)]
+1, 0, 0, Tides of joy And grief swept over him grief 
+2, 1, 0, for memories Of that swift footed father joy 
+3, 0, 1, for sight Of such a son He for sheer gladness wept . 
+1613 2
+[(2, 2)]
+1, 0, 0, But now 
+2, 1, 1, help thou the Myrmidons and Greeks In their sore strait : wreak on the foe thy wrath for thy brave sire It shall be thy renown To slay this war 
+1655 7
+[(5, 5)]
+1, 0, 0, He spake 
+2, 0, 0, and vanished 
+3, 0, 0, mingling with the winds 
+4, 0, 1, But their hearts felt the God 's power : suddenly Flooded with boundless courage were their frames 
+5, 0, 0, Maddened their spirits : on the foe they leapt Like furious wasps that in a storm of rage Swoop upon bees 
+6, 1, 0, beholding them draw nigh In latter summer to the mellowing grapes 
+7, 0, 0, Or from their hives forth streaming thitherward . 
+1661 7
+[(1, 3)]
+1, 0, 0, And how that he is quite ashamed of himself 
+2, 0, 0, and confesses how he had deserved this 
+3, 0, 0, for his baseness to his brother 
+4, 0, 0, And that he is like to pay part of the money 
+5, 0, 0, paid out of the Exchequer during the Committee of Safety 
+6, 0, 0, out of his own purse again 
+7, 1, 0, which I am glad on . 
+1674 6
+[(6, 6)]
+1, 0, 0, After Cromwell had put down the House Of Peers 
+2, 1, 0, he was chosen a Member of the House of Commons 
+3, 0, 0, and sat with them 
+4, 0, 0, ob 
+5, 0, 0, 1660 
+6, 0, 0, That my Lord is very joyful that other countries do pay him the civility and respect due to him . 
+1677 7
+[(5, 7)]
+1, 0, 0, In the afternoon my Lord and I walked together in the coach two hours 
+2, 0, 1, talking together upon all sorts of discourse : as religion 
+3, 0, 0, wherein he is 
+4, 0, 0, I perceive 
+5, 0, 0, wholly sceptical 
+6, 0, 0, saying 
+7, 0, 0, that indeed the Protestants as to the Church of Rome are wholly fanatiques . 
+1689 6
+[(4, 4)]
+1, 0, 0, After dinner Mr 
+2, 0, 0, Shepley and I in private talking about my Lord 's intentions to go speedily into the country 
+3, 0, 0, but to what end we know not 
+4, 1, 1, We fear he is to go to sea 
+5, 0, 0, with his fleet now preparing 
+6, 0, 0, But we wish that he could get his 4000l . 
+1690 6
+[(3, 3)]
+1, 0, 0, Then in the Quire at the high altar 
+2, 1, 1, the King passed through all the ceremonies of the Coronation 
+3, 0, 1, which to my great grief I and most in the Abbey could not see The crowne being put upon his head 
+4, 0, 0, a great shout begun 
+5, 0, 0, and he come forth to the throne 
+6, 0, 0, and there passed through more ceremonies . 
+1700 6
+[(3, 5)]
+1, 0, 0, By water to White Hall 
+2, 0, 0, and there waited upon my Lord Sandwich 
+3, 0, 0, and joyed him 
+4, 1, 0, at his lodgings 
+5, 0, 0, of his safe coming home after all his danger 
+6, 0, 0, which he confesses to be very great . 
+1713 4
+[(1, 3)]
+1, 0, 0, The Locrian men Groaned 
+2, 0, 0, seeing their champion quelled by evil doom 
+3, 1, 1, For all his hair and all the stones around Were brain be spattered : all his bones were crushed 
+4, 0, 0, And his once active limbs besprent with gore . 
+1749 15
+[(9, 8)]
+1, 0, 0, You WANT somethin' to growl about 
+2, 0, 0, you do 
+3, 0, 0, " Well 
+4, 0, 0, Cap'n George 
+5, 0, 0, " said one of the men 
+6, 0, 0, " you shorely dont think we k'n eat shells 
+7, 0, 0, do yer 
+8, 0, 1, " Just then I caught sight of the kid 's contents 
+9, 0, 0, and could hardly restrain my indignation 
+10, 0, 0, For in a dirty heap 
+11, 1, 0, the sight of which might have pleased an Esquimaux 
+12, 0, 0, but was certainly enough to disgust any civilized man 
+13, 0, 0, lay the calipee 
+14, 0, 0, or under shell of the turtle 
+15, 0, 0, hacked into irregular blocks . 
+1760 10
+[(4, 4)]
+1, 0, 0, A ruined house 
+2, 0, 0, surrounded by other vestiges of what had once been a homestead 
+3, 0, 0, stood in the middle of this piece of land 
+4, 1, 1, Feeling curious to know what the history of this isolated settlement might be 
+5, 0, 0, I asked the mate if he knew anything of it 
+6, 0, 0, He told me that an American named Halstead 
+7, 0, 0, with his family 
+8, 0, 0, lived here for years 
+9, 0, 0, visited only by an occasional whaler 
+10, 0, 0, to whom they sold such produce as they might have and be able to spare at the time . 
+1763 9
+[(6, 9)]
+1, 0, 0, Nothing of advantage to our cargo was seen for a long time 
+2, 0, 0, which 
+3, 0, 0, although apparently what was to be expected 
+4, 0, 0, did not improve Captain Slocum 's temper 
+5, 0, 0, But 
+6, 1, 0, to the surprise of all 
+7, 0, 1, when we had arrived off the beautiful island of Hong Kong 
+8, 0, 0, to which we approached closely 
+9, 0, 0, we " raised " a grand sperm whale . 
+1770 10
+[(4, 4)]
+1, 0, 0, He raised a gigantic tail on high 
+2, 0, 0, threshing the water with deafening blows 
+3, 0, 1, rolling at the same time from side to side until the surrounding sea was white with froth 
+4, 1, 0, I felt in an agony lest we should be crushed under one of those fearful strokes 
+5, 0, 0, for Mr 
+6, 0, 0, Count appeared to be oblivious of possible danger 
+7, 0, 0, although we seemed to be now drifting back on to the writhing leviathan 
+8, 0, 0, In the agitated condition of the sea 
+9, 0, 0, it was a task of no ordinary difficulty to un ship the tall mast 
+10, 0, 0, which was of course the first thing to be done . 
+1782 7
+[(1, 1)]
+1, 0, 0, The men were afraid to go on to the sick list 
+2, 0, 0, Nothing short of total inability to continue would have prevented them from working 
+3, 0, 1, such was the terror with which that man had inspired us all 
+4, 0, 0, It may be said that we were a pack of cowards 
+5, 0, 0, who 
+6, 0, 0, without the courage to demand better treatment 
+7, 0, 0, deserved all we got . 
+1783 8
+[(3, 1), (3, 2)]
+1, 1, 1, But under the painful and abnormal circumstances in which they found themselves beaten and driven like dogs while in the throes of sea sickness 
+2, 0, 0, half starved and hopeless 
+3, 0, 0, their spirit had been so broken 
+4, 0, 0, and they were so kept down to that sad level by the display of force 
+5, 0, 0, aided by deadly weapons aft 
+6, 0, 0, that no other condition could be expected for them but that of broken-hearted slaves 
+7, 0, 0, My own case was many degrees better than that of the other whites 
+8, 0, 0, as I have before noted 
+1805 13
+[(10, 1), (10, 2), (10, 3), (10, 4)]
+1, 0, 0, The sorely wounded monster 
+2, 0, 0, with one tremendous expiration 
+3, 0, 0, rolled over and over swift as thought towards his aggressor 
+4, 0, 0, literally burying the boat beneath his vast bulk 
+5, 0, 0, Now 
+6, 0, 0, one would have thought surely 
+7, 0, 0, upon seeing this 
+8, 0, 1, that none of that boat 's crew would ever have been seen again 
+9, 0, 0, Nevertheless 
+10, 0, 0, strange as it may appear 
+11, 0, 0, out of that seething lather of foam 
+12, 0, 0, all six heads emerged again in an instant 
+13, 0, 0, but on the OTHER side of the great creature . 
+1807 5
+[(3, 3)]
+1, 0, 0, Once clear of the southern end of Formosa we had quite a rapid run to the Bonins 
+2, 0, 0, carrying a press of sail day and night 
+3, 0, 0, as the skipper was anxious to arrive there on account of his recent injuries 
+4, 0, 0, He was still very lame 
+5, 1, 1, and he feared that some damage might have been done to him of which he was ignorant . 
+1836 9
+[(7, 7)]
+1, 0, 0, Samuela and Polly set to work with their sheath knives 
+2, 0, 0, and soon excavated a space in the blubber to enable them to reach the meat 
+3, 0, 0, Then they cut off some good-sized junks 
+4, 0, 0, and divided it up 
+5, 0, 1, It was not half bad 
+6, 0, 0, and as we chewed on the tough black fibre 
+7, 0, 0, I could hardly help smiling as I thought how queer a Christmas dinner we were having 
+8, 0, 0, But eating soon heightened our thirst 
+9, 0, 0, and our real sufferings then began . 
+1840 6
+[(1, 1), (1, 2)]
+1, 1, 1, I have no doubt whatever that some of the gentry who swear at large about the evils of missionaries would have been loud in their disgust at the entire absence 
+2, 0, 0, and the prevalence of what they would doubtless characterize as adjective hypocrisy on the part of the natives 
+3, 0, 0, but no decent man could help rejoicing at the peace 
+4, 0, 0, the security 
+5, 0, 0, and friendliness manifested on every hand 
+6, 0, 0, nor help awarding unstinted praise to whoever had been the means of bringing about so desirable a state of things . 
+1847 8
+[(5, 5)]
+1, 0, 0, Taking stock of him quietly during our day-long leisurely cruises in the boat 
+2, 0, 0, I often wondered whether his mind still kept its gloomy forebodings 
+3, 0, 0, and brooded over his tragical life-history 
+4, 0, 0, I never dared to speak to him on the subject 
+5, 1, 1, for fear of arousing what I hoped was growing too faint for remembrance 
+6, 0, 0, But at times I saw him in the moonlit evenings sitting on the rail alone 
+7, 0, 0, steadfastly gazing down into the star besprent waters beneath him 
+8, 0, 0, as if coveting their unruffled peace . 
+1850 8
+[(5, 5)]
+1, 0, 0, And 
+2, 0, 0, then 
+3, 0, 0, our relations with the natives had been so perfectly amicable 
+4, 0, 0, so free from anything to regret 
+5, 1, 0, Perhaps this simple statement will raise a cynical smile upon the lips of those who know Tahati 
+6, 0, 0, the New Hebrides 
+7, 0, 0, and kindred spots with all their savage 
+8, 0, 0, bestial orgies of alternate unbridled lust and unnamable cruelty . 
+1880 4
+[(3, 3)]
+1, 0, 0, not only on his own account but on hers and his father 's 
+2, 1, 1, In her tenderness she had not told him that the real reason was his instability of purpose 
+3, 1, 0, fearing to wound his pride 
+4, 0, 0, she had put it solely on the ground of his settling down to some work . 
+1882 12
+[(11, 11)]
+1, 0, 0, When he had done these things 
+2, 0, 0, and gone back to his own land 
+3, 0, 0, one Skat entertained him at a banquet 
+4, 0, 0, desirous to mingle his toilsome warfare with joyous licence 
+5, 0, 0, Frode was lying in his house 
+6, 0, 0, in royal fashion 
+7, 0, 0, upon cushions of cloth of gold 
+8, 0, 0, and a certain Hunding challenged him to fight 
+9, 0, 0, Then 
+10, 0, 0, though he had bent his mind to the joys of wassail 
+11, 0, 0, he had more delight in the prospect of a fray than in the presence of a feast 
+12, 0, 0, and wound up the supper with a duel and the duel with a triumph . 
+1884 13
+[(9, 9)]
+1, 0, 0, So Athisl 
+2, 0, 1, when he saw the necklace that he had given to Rolf left among the other golden ornaments 
+3, 0, 0, gazed fixedly upon the dearest treasure of his avarice 
+4, 0, 0, and 
+5, 0, 0, in order to pick up the plunder 
+6, 0, 0, glued his knees to the earth and deigned to stoop his royalty unto greed 
+7, 0, 0, Rolf 
+8, 0, 0, seeing him lie abjectly on his face in order to gather up the money 
+9, 0, 0, smiled at the sight of a man prostrated by his own gifts 
+10, 0, 0, just as if he were seeking covetously to regain what he had craftily yielded up 
+11, 0, 0, The Swedes were content with their booty 
+12, 0, 0, and Rolf quickly retired to his ships 
+13, 0, 0, and managed to escape by rowing violently . 
+1894 7
+[(3, 3)]
+1, 1, 0, Straightway he sought medicine for his grief in loneliness 
+2, 0, 0, and patiently confined the grief of his sick soul within the walls of his house 
+3, 0, 1, But this bitter sorrow was driven out of him by the sudden arrival of Iwar 
+4, 0, 0, who had been expelled from the kingdom 
+5, 0, 0, For the Gauls had made him fly 
+6, 0, 0, and had wrongfully bestowed royal power on a certain Ella 
+7, 0, 0, the son of Hame . 
+1899 4
+[(3, 3)]
+1, 0, 0, So he besought them to make his son RORIK king 
+2, 0, 0, so that the judgment of wicked men should not transfer the royalty to strange and unknown houses 
+3, 1, 1, asserting that he would reap more joy from the succession of his son than bitterness from his own impending death 
+4, 0, 0, This request was speedily granted . 
+1902 15
+[(8, 9)]
+1, 0, 0, This night one was shot 
+2, 0, 0, without any mistake about it 
+3, 0, 0, for the next morning we tracked him by his blood 
+4, 0, 0, and afterwards heard he had died of his wound 
+5, 0, 0, The Wasui elders 
+6, 0, 0, contrary to my expectation 
+7, 0, 0, then came and congratulated us on our success 
+8, 0, 0, They thought us most wonderful men 
+9, 0, 0, and possessed of supernatural powers 
+10, 0, 0, for the thief in question was a magician 
+11, 0, 0, who until now was thought to be invulnerable 
+12, 0, 0, Indeed 
+13, 0, 0, they said Arabs with enormous caravans had often been plundered by these people 
+14, 0, 0, but though they had so many more guns than ourselves 
+15, 0, 0, they never succeeded in killing one . 
+1922 10
+[(8, 9), (8, 10)]
+1, 0, 0, It was about two o'clock when Hubert had entered the gorge 
+2, 0, 0, It was after three when his father had roused him 
+3, 0, 0, and made his vain effort to save him 
+4, 0, 0, Hubert was now left alone with the rising tide 
+5, 0, 0, whose waters rolled forward with fearful rapidity 
+6, 1, 0, The beach inside was nearly level and he saw that in an hour or so it would be covered with the waters 
+7, 0, 0, He tried to trust to his father 's promise 
+8, 0, 0, but the precious moments passed and he began to look with terror upon the increasing storm 
+9, 0, 0, for every moment the wind grew fiercer 
+10, 0, 0, and the surf rolled in with ever increasing impetuosity . 
+1929 4
+[(1, 2)]
+1, 1, 1, While I was bending over his corpse in grief and horror 
+2, 0, 0, I heard close at hand a strange sound between a snort and a hiss 
+3, 0, 0, and turning instinctively to the quarter from which it came 
+4, 0, 0, I saw emerging from a dark fissure in the rock a vast and terrible head 
+1930 22
+[(12, 10)]
+1, 0, 0, Little Sam 
+2, 0, 0, however 
+3, 0, 0, was not yet ready to enjoy the island and the cave 
+4, 0, 0, He was still delicate the least promising of the family 
+5, 0, 0, He was queer and fanciful 
+6, 0, 0, and rather silent 
+7, 0, 0, He walked in his sleep and was often found in the middle of the night 
+8, 0, 0, fretting with the cold 
+9, 0, 0, in some dark corner 
+10, 0, 0, Once he heard that a neighbor 's children had the measles 
+11, 0, 0, and 
+12, 0, 0, being very anxious to catch the complaint 
+13, 0, 0, slipped over to the house and crept into bed with an infected playmate 
+14, 0, 0, Some days later 
+15, 0, 1, Little Sam 's relatives gathered about his bed to see him die 
+16, 0, 0, He confessed 
+17, 0, 0, long after 
+18, 0, 0, that the scene gratified him 
+19, 0, 0, However 
+20, 0, 0, he survived 
+21, 0, 0, and fell into the habit of running away 
+22, 0, 0, usually in the direction of the river . 
+1931 11
+[(8, 8)]
+1, 0, 0, In Tom Sawyer 
+2, 0, 0, Indian Joe dies in the cave 
+3, 0, 0, He did not die there in real life 
+4, 0, 0, but was lost there once and was very weak when they found him 
+5, 0, 0, He was not as bad as painted in the book 
+6, 0, 0, though he was dissolute and accounted dangerous 
+7, 0, 0, and when one night he died in reality 
+8, 0, 0, there came a thunderstorm so terrific that Sam Clemens at home 
+9, 0, 0, in bed 
+10, 0, 0, was certain that Satan had come in person for the half-breed 's soul 
+11, 0, 0, He covered his head and said his prayers with fearful anxiety lest the evil one might decide to save another trip by taking him along then . 
+1943 9
+[(4, 4)]
+1, 0, 0, ' what do you mean there are hundreds of children over there 
+2, 0, 0, ' asked Father 
+3, 0, 0, ' what do you know of what goes on over there 
+4, 1, 0, ' Bruno opened his mouth to speak but worried that he would get himself into trouble if he revealed too much 
+5, 0, 0, ' i can see them from my bedroom window 
+6, 0, 0, ' he said finally 
+7, 0, 0, ' theyre very far away of course 
+8, 0, 0, but it looks like there are hundreds 
+9, 0, 0, All wearing the striped pyjamas . ' 
+1958 10
+[(7, 5), (7, 6)]
+1, 0, 0, Shmuel shook his head 
+2, 0, 0, ' that 's all right 
+3, 0, 0, ' he said 
+4, 0, 0, ' there 's a hut where they keep them 
+5, 0, 1, I can get some in my size and bring them with me 
+6, 0, 0, Then you can change and we can look for Papa 
+7, 0, 0, ' wonderful 
+8, 0, 0, ' said Bruno 
+9, 1, 0, caught up in the enthusiasm of the moment 
+10, 0, 0, ' then it 's a plan . ' 
+1986 2
+[(2, 2)]
+1, 0, 0, The key to successfully designing a validation control is to give users generous feedback 
+2, 1, 1, An entry control that merely refuses to accept input is just plain rude and will guarantee an angry and resentful user . 
+1992 3
+[(2, 2)]
+1, 0, 0, Many travelers 
+2, 0, 0, embittered by encounters with this flagrant discrimination 
+3, 1, 1, left China with impressions that were not as favorable as they might have been . 
+2005 2
+[(2, 2)]
+1, 0, 0, I wondered how it could happen that I was thinking of my father and my mother appeared 
+2, 1, 1, and I felt a little guilty that I had not asked for her as well . 
+2013 1
+[(1, 1)]
+1, 1, 1, High school students indulged in the new freedom on such a scale as to shock their parents . 
+2029 3
+[(3, 1), (3, 2), (3, 3)]
+1, 0, 1, Bizarre thoughts 
+2, 0, 1, weird visions 
+3, 1, 1, and strange voices perplexed and terrified her . 
+2059 29
+[(14, 13)]
+1, 0, 0, Oh 
+2, 0, 0, there goes his PRECIOUS nose ' 
+3, 0, 0, as an unusually large saucepan flew close by it 
+4, 0, 0, and very nearly carried it off 
+5, 0, 0, f everybody minded their own business 
+6, 0, 0, ' the Duchess said in a hoarse growl 
+7, 0, 0, the world would go round a deal faster than it does 
+8, 0, 0, Which would NOT be an advantage 
+9, 0, 0, ' said Alice 
+10, 0, 0, who felt very glad to get an opportunity of showing off a little of her knowledge Just think of what work it would make with the day and night 
+11, 0, 0, You see the earth takes twenty-four hours to turn round on its axis ' Talking of axes 
+12, 0, 0, ' said the Duchess 
+13, 0, 0, chop off her head 
+14, 0, 0, ' Alice glanced rather anxiously at the cook 
+15, 0, 0, to see if she meant to take the hint 
+16, 0, 0, but the cook was busily stirring the soup 
+17, 0, 0, and seemed not to be listening 
+18, 0, 0, so she went on again : Twenty-four hours 
+19, 0, 0, I THINK 
+20, 0, 0, or is it twelve 
+21, 0, 0, I ' Oh 
+22, 0, 0, dont bother ME 
+23, 0, 0, ' said the Duchess 
+24, 0, 0, I never could abide figures 
+25, 0, 1, ' And with that she began nursing her child again 
+26, 0, 0, singing a sort of lullaby to it as she did so 
+27, 0, 0, and giving it a violent shake at the end of every line : Speak roughly to your little boy 
+28, 0, 0, And beat him when he sneezes : He only does it to annoy 
+29, 0, 0, Because he knows it teases . ' 
+2060 18
+[(5, 5)]
+1, 0, 0, I dont quite understand you 
+2, 0, 0, ' she said 
+3, 0, 0, as politely as she could The Dormouse is asleep again 
+4, 0, 0, ' said the Hatter 
+5, 0, 0, and he poured a little hot tea upon its nose . The Dormouse shook its head impatiently 
+6, 0, 0, and said 
+7, 0, 0, without opening its eyes 
+8, 0, 0, Of course 
+9, 0, 0, of course 
+10, 0, 0, just what I was going to remark myself 
+11, 0, 0, Have you guessed the riddle yet 
+12, 0, 0, ' the Hatter said 
+13, 0, 0, turning to Alice again No 
+14, 0, 0, I give it up 
+15, 0, 0, ' Alice replied : what 's the answer 
+16, 0, 0, ' I have n't the slightest idea 
+17, 0, 0, ' said the Hatter Nor I 
+18, 0, 0, ' said the March Hare 
+2064 19
+[(9, 9)]
+1, 0, 0, By the time she had caught the flamingo and brought it back 
+2, 0, 0, the fight was over 
+3, 0, 0, and both the hedgehogs were out of sight : but it does n't matter much 
+4, 0, 0, ' thought Alice 
+5, 0, 0, as all the arches are gone from this side of the ground 
+6, 0, 0, So she tucked it away under her arm 
+7, 0, 0, that it might not escape again 
+8, 0, 0, and went back for a little more conversation with her friend . When she got back to the Cheshire Cat 
+9, 0, 1, she was surprised to find quite a large crowd collected round it : there was a dispute going on between the executioner 
+10, 0, 0, the King 
+11, 0, 0, and the Queen 
+12, 0, 0, who were all talking at once 
+13, 0, 0, while all the rest were quite silent 
+14, 1, 0, and looked very uncomfortable The moment Alice appeared 
+15, 0, 0, she was appealed to by all three to settle the question 
+16, 0, 0, and they repeated their arguments to her 
+17, 0, 0, though 
+18, 0, 0, as they all spoke at once 
+19, 0, 0, she found it very hard indeed to make out exactly what they said 
+2065 18
+[(9, 10), (9, 13)]
+1, 0, 0, Thinking again 
+2, 0, 0, ' the Duchess asked 
+3, 0, 0, with another dig of her sharp little chin i 've a right to think 
+4, 0, 0, ' said Alice sharply 
+5, 1, 0, for she was beginning to feel a little worried Just about as much right 
+6, 0, 0, ' said the Duchess 
+7, 0, 0, as pigs have to fly 
+8, 0, 0, and the m ' But here 
+9, 1, 0, to Alice 's great surprise 
+10, 0, 0, the Duchess 's voice died away 
+11, 0, 0, even in the middle of her favourite word moral 
+12, 0, 0, ' and the arm that was linked into hers began to tremble . Alice looked up 
+13, 0, 1, and there stood the Queen in front of them 
+14, 0, 0, with her arms folded 
+15, 0, 0, frowning like a thunderstorm A fine day 
+16, 0, 0, your Majesty 
+17, 0, 0, ' the Duchess began in a low 
+18, 0, 0, weak voice 
+2069 26
+[(19, 17)]
+1, 0, 0, theyre done with blacking 
+2, 0, 0, I believe 
+3, 0, 0, Boots and shoes under the sea 
+4, 0, 0, ' the Gryphon went on in a deep voice 
+5, 0, 0, are done with a whiting . Now you know 
+6, 0, 0, And what are they made of 
+7, 0, 0, ' Alice asked in a tone of great curiosity Soles and eels 
+8, 0, 0, of course 
+9, 0, 0, ' the Gryphon replied rather impatiently : any shrimp could have told you that 
+10, 0, 0, If i 'd been the whiting 
+11, 0, 0, ' said Alice 
+12, 0, 0, whose thoughts were still running on the song 
+13, 0, 0, i 'd have said to the porpoise 
+14, 0, 0, " Keep back 
+15, 0, 0, please : we dont want YOU with us 
+16, 0, 0, " ' They were obliged to have him with them 
+17, 0, 0, ' the Mock Turtle said : no wise fish would go anywhere without a porpoise 
+18, 0, 0, would n't it really 
+19, 1, 0, ' said Alice in a tone of great surprise Of course not 
+20, 0, 0, ' said the Mock Turtle : why 
+21, 0, 0, if a fish came to ME 
+22, 0, 0, and told me he was going a journey 
+23, 0, 0, I should say " With what porpoise 
+24, 0, 0, " ' dont you mean " purpose " 
+25, 0, 0, ' said Alice I mean what I say 
+26, 0, 0, ' the Mock Turtle replied in an offended tone 
+2071 28
+[(8, 6), (8, 7)]
+1, 0, 0, Off with her head 
+2, 0, 1, ' the Queen shouted at the top of her voice . Nobody moved Who cares for you 
+3, 0, 0, ' said Alice 
+4, 0, 1, ( she had grown to her full size by this time 
+5, 0, 0, you 're nothing but a pack of cards 
+6, 0, 0, ' At this the whole pack rose up into the air 
+7, 0, 0, and came flying down upon her : she gave a little scream 
+8, 0, 0, half of fright and half of anger 
+9, 0, 0, and tried to beat them off 
+10, 0, 0, and found herself lying on the bank 
+11, 0, 0, with her head in the lap of her sister 
+12, 0, 0, who was gently brushing away some dead leaves that had fluttered down from the trees upon her face Wake up 
+13, 0, 0, Alice dear 
+14, 0, 0, ' said her sister 
+15, 0, 0, Why 
+16, 0, 0, what a long sleep you 've had 
+17, 0, 0, ' Oh 
+18, 0, 0, i 've had such a curious dream 
+19, 0, 0, ' said Alice 
+20, 0, 0, and she told her sister 
+21, 0, 0, as well as she could remember them 
+22, 1, 1, all these strange Adventures of hers that you have just been reading about 
+23, 0, 0, and when she had finished 
+24, 0, 0, her sister kissed her 
+25, 0, 0, and said 
+26, 0, 0, It WAS a curious dream 
+27, 0, 0, dear 
+28, 0, 0, certainly : but now run in to your tea 
+2096 6
+[(1, 1)]
+1, 1, 1, James feared he had been mistaken 
+2, 0, 0, and looked to the influence of Esclairmonde to repair the evil 
+3, 0, 0, if perchance she should follow the Queen to France 
+4, 0, 0, And this it was almost certain she must do 
+5, 0, 0, since she was entirely dependent upon the Countess of Hainault 
+6, 0, 0, and could not obtain admission to a nunnery without recovering a portion of her estates . 
+2101 8
+[(8, 8)]
+1, 0, 0, " Ah 
+2, 0, 0, that will be well 
+3, 0, 0, " cried Christina 
+4, 0, 1, " Then will our wagons be no longer set upon at the Debateable Ford by Schlangenwald or Adlerstein 
+5, 0, 0, and our wares will come safely 
+6, 0, 0, and there will be wealth enough to raise our spire 
+7, 0, 0, O uncle 
+8, 0, 0, what a day of joy will that be when Our Lady 's great statue will be set on the summit 
+2111 16
+[(6, 6)]
+1, 0, 0, Meantime James hurriedly explained to Kitson that here was the sick man left by the enemy 
+2, 0, 0, summoned Sir Nigel to his side 
+3, 0, 0, closed his own visor 
+4, 0, 0, and called for water 
+5, 0, 0, then hung over the prisoner 
+6, 0, 0, anxious to prevent the first word from being broad Scotch 
+7, 0, 0, In the free air 
+8, 0, 0, some long sobs showed that Patrick was struggling back to life 
+9, 0, 0, and James at once said 
+10, 0, 0, ' rendez vous 
+11, 0, 0, My Lord 
+12, 0, 0, ' but he neither answered 
+13, 0, 0, nor was there meaning in his eyes 
+14, 0, 0, And James perceived that he was bandaged as though for broken ribs 
+15, 0, 0, and that his right shoulder was dislocated 
+16, 0, 0, and no doubt had been a second time pulled out when Malcolm had grasped him by the arms . 
+2130 11
+[(2, 2)]
+1, 0, 0, All who had known his partial fondness for young Conrad 
+2, 1, 1, were as much surprised at their Prince 's insensibility 
+3, 0, 0, as thunderstruck themselves at the miracle of the helmet 
+4, 0, 0, They conveyed the disfigured corpse into the hall 
+5, 0, 0, without receiving the least direction from Manfred 
+6, 0, 0, As little was he attentive to the ladies who remained in the chapel 
+7, 0, 0, On the contrary 
+8, 0, 0, without mentioning the unhappy princesses 
+9, 0, 0, his wife and daughter 
+10, 0, 0, the first sounds that dropped from Manfred 's lips were 
+11, 0, 0, " Take care of the Lady Isabella . " 
+2141 20
+[(5, 5)]
+1, 0, 0, " You must not 
+2, 0, 0, " said Hippolita - " come 
+3, 0, 0, all will yet be well 
+4, 0, 0, Manfred 
+5, 0, 0, in the agony for the loss of thy brother 
+6, 0, 0, knew not what he said 
+7, 0, 0, perhaps Isabella misunderstood him 
+8, 0, 0, his heart is good - and 
+9, 0, 0, my child 
+10, 0, 0, thou knowest not all 
+11, 0, 0, There is a destiny hangs over us 
+12, 0, 0, the hand of Providence is stretched out 
+13, 0, 0, oh 
+14, 0, 0, could I but save thee from the wreck 
+15, 0, 0, Yes 
+16, 0, 0, " continued she in a firmer tone 
+17, 0, 1, " perhaps the sacrifice of myself may atone for all 
+18, 0, 0, I will go and offer myself to this divorce - it boots not what becomes of me 
+19, 0, 0, I will withdraw into the neighbouring monastery 
+20, 0, 0, and waste the remainder of life in prayers and tears for my child and - the Prince 
+2176 1
+[(1, 1)]
+1, 1, 1, The slightest disappointment or frustration would send him into sobs or tantrums . 
+2187 1
+[(1, 1)]
+1, 1, 1, she was upset that Felix had a new girlfriend . 
+2190 5
+[(1, 3)]
+1, 0, 1, One night Marty cried at bedtime 
+2, 0, 0, telling his mother that when they were on visits 
+3, 0, 0, Felix and June would make " mean jokes " about Kaleigh 
+4, 1, 0, and that Mariel and Joel would laugh about the jokes 
+5, 0, 0, " but they make me feel sad 
+2202 5
+[(5, 3)]
+1, 0, 0, The two men stood there a seeming eternity 
+2, 0, 0, each with their gun hand poised and ready 
+3, 0, 0, Then gun fire rang out and the look and smell of gun smoke filled the air 
+4, 1, 1, Sliver Pete blew away the smoke at end of his gun barrel as he saw the tall figure of Preacher Dan hit the dirt 
+5, 0, 0, Cries of anguish came from womenfolk in the crowd . 
+2217 3
+[(1, 3)]
+1, 0, 1, Mieko also grows close to Yoshis aunt 
+2, 0, 0, Her friends aunt is strict 
+3, 1, 0, but kind and encourages Mieko to pick up her paintbrushes again . 
+2246 1
+[(1, 1)]
+1, 1, 1, Her organs were not viable for transplant because her oxygen levels were too low which Abbey said was ' disappointing ' - but they were able to donate her heart 
+2247 1
+[(1, 1)]
+1, 1, 1, Lulu said she was pleased that her microblog made more people aware of their filial duties and she hopes young people could take more time to be with their parents 
+2251 3
+[(1, 1)]
+1, 1, 0, He was afraid of catching cold I dare say 
+2, 0, 0, and invented this trick for getting out of it 
+3, 1, 1, I would lay fifty guineas the letter was of his own writing . 
+2255 3
+[(3, 1), (3, 2)]
+1, 1, 0, To be tied down to the regular payment of such a sum 
+2, 0, 0, on every rent day 
+3, 0, 1, is by no means desirable : it takes away one 's independence . 
+2263 3
+[(3, 2), (3, 3)]
+1, 0, 0, As Elinor and Marianne were walking together the next morning the latter communicated a piece of news to her sister 
+2, 0, 0, which in spite of all that she knew before of Marianne 's imprudence and want of thought 
+3, 1, 1, surprised her by its extravagant testimony of both . 
+2266 4
+[(4, 4)]
+1, 0, 0, The cross-border buyout 
+2, 1, 0, Chinas largest to date 
+3, 0, 0, has dragged on since it was first announced in February last year 
+4, 0, 1, hitting several regulatory snags in Europe as well as concerns over ChemChinas ability to pay for Syngenta 
+2282 1
+[(1, 1)]
+1, 1, 1, " China is more concerned that the boycott will negatively affect Chinese enterprises to invest in India and the bilateral cooperation which both Chinese and Indian people are not willing 
+2288 2
+[(2, 1)]
+1, 0, 1, A loud noise mistaken for gunfire led to rumors that spread at blazing speed in person andon social media 
+2, 1, 1, setting off a panic that shut down one of the nations busiest airports 
+2291 1
+[(1, 1)]
+1, 1, 1, im so glad that you could come . 
+2292 6
+[(4, 2), (5, 5)]
+1, 0, 0, Suddenly 
+2, 0, 0, Princess Ann loses her balance as her foot slips over her shoe 
+3, 0, 0, knocking it over 
+4, 1, 0, The Count 's eyeglass pops out in surprise and he smiles back as she regathered herself 
+5, 0, 1, The Ambassador looks down in disappointment at her error 
+6, 0, 0, The Master of Ceremonies introduces the next couple a Senor and Senora . 
+2299 4
+[(4, 4)]
+1, 0, 0, they would be able to squash the magic out of him 
+2, 1, 0, To their fury 
+3, 0, 0, they had not been unsuccessful 
+4, 0, 0, These days they lived in terror of anyone finding out that Harry had spent most of the last two years at Hogwarts School of Witchcraft and Wizardry . 
+2301 3
+[(2, 3)]
+1, 1, 1, Harry was particularly keen to avoid trouble with his aunt and uncle at the moment 
+2, 0, 0, as they were already in an especially bad mood with him 
+3, 0, 0, all because he 'd received a telephone call from a fellow wizard one week into the school vacation . 
+2329 8
+[(5, 5)]
+1, 0, 0, " The sooner we get on the train 
+2, 0, 0, the better 
+3, 0, 0, " he said 
+4, 0, 0, " At least I can get away from Percy at Hogwarts 
+5, 1, 1, Now he 's accusing me of dripping tea on his photo of Penelope Clearwater 
+6, 0, 0, You know 
+7, 0, 0, " Ron grimaced 
+8, 0, 0, " his girlfriend . 
+2352 1
+[(1, 1)]
+1, 1, 1, The next day he went on a live show on the Voice of America and angrily condemned the attacks . 
+2363 5
+[(3, 3)]
+1, 0, 0, There was even a case of a man drawing a teachers pension when he had never taught a day in his life 
+2, 0, 1, Aside from corruption and bad government 
+3, 0, 1, my fathers main concern in those days was the environment 
+4, 0, 0, Mingora was expanding quickly – around 175 
+5, 0, 0, 000 people now called it home – and our once fresh air was becoming very polluted from all the vehicles and cooking fires . 
+2372 2
+[(2, 2)]
+1, 0, 0, He said 
+2, 1, 1, " im very glad you found the story so useful 
+2402 14
+[(6, 2)]
+1, 0, 0, The whole being explained 
+2, 0, 0, many obliging things were said by the Miss Thorpes of their wish of being better acquainted with her 
+3, 0, 0, of being considered as already friends 
+4, 0, 0, through the friendship of their brothers 
+5, 0, 0, etc 
+6, 0, 0, which Catherine heard with pleasure 
+7, 0, 0, and answered with all the pretty expressions she could command 
+8, 0, 0, and 
+9, 0, 0, as the first proof of amity 
+10, 0, 0, she was soon invited to accept an arm of the eldest Miss Thorpe 
+11, 0, 0, and take a turn with her about the room 
+12, 0, 0, Catherine was delighted with this extension of her Bath acquaintance 
+13, 0, 0, and almost forgot Mr Tilney while she talked to Miss Thorpe 
+14, 0, 0, Friendship is certainly the finest balm for the pangs of disappointed love . 
+2403 14
+[(12, 12)]
+1, 0, 0, The whole being explained 
+2, 0, 0, many obliging things were said by the Miss Thorpes of their wish of being better acquainted with her 
+3, 0, 0, of being considered as already friends 
+4, 0, 0, through the friendship of their brothers 
+5, 0, 0, etc 
+6, 0, 0, which Catherine heard with pleasure 
+7, 0, 0, and answered with all the pretty expressions she could command 
+8, 0, 0, and 
+9, 0, 0, as the first proof of amity 
+10, 0, 0, she was soon invited to accept an arm of the eldest Miss Thorpe 
+11, 0, 0, and take a turn with her about the room 
+12, 0, 0, Catherine was delighted with this extension of her Bath acquaintance 
+13, 0, 0, and almost forgot Mr Tilney while she talked to Miss Thorpe 
+14, 0, 0, Friendship is certainly the finest balm for the pangs of disappointed love . 
+2409 15
+[(8, 8)]
+1, 0, 0, Her daily expressions were no longer 
+2, 0, 0, " I wish we had some acquaintance in Bath 
+3, 0, 0, " They were changed into 
+4, 0, 0, " How glad I am we have met with Mrs 
+5, 0, 0, Thorpe 
+6, 0, 0, " and she was as eager in promoting the intercourse of the two families 
+7, 0, 0, as her young charge and Isabella themselves could be 
+8, 0, 0, never satisfied with the day unless she spent the chief of it by the side of Mrs Thorpe 
+9, 0, 0, in what they called conversation 
+10, 0, 0, but in which there was scarcely ever any exchange of opinion 
+11, 0, 0, and not often any resemblance of subject 
+12, 0, 0, for Mrs 
+13, 0, 0, Thorpe talked chiefly of her children 
+14, 0, 0, and Mrs 
+15, 0, 0, Allen of her gowns . 
+2415 27
+[(13, 12)]
+1, 0, 0, Catherine 
+2, 0, 0, in some amazement 
+3, 0, 0, complied 
+4, 0, 0, and after remaining a few moments silent 
+5, 0, 0, was on the point of reverting to what interested her at that time rather more than anything else in the world 
+6, 0, 0, Laurentina 's skeleton 
+7, 0, 0, when her friend prevented her 
+8, 0, 0, by saying 
+9, 0, 0, " For heaven 's sake 
+10, 0, 0, Let us move away from this end of the room 
+11, 0, 0, Do you know 
+12, 0, 1, there are two odious young men who have been staring at me this half hour 
+13, 0, 0, They really put me quite out of countenance 
+14, 0, 0, Let us go and look at the arrivals 
+15, 0, 0, They will hardly follow us there 
+16, 0, 0, Away they walked to the book 
+17, 0, 0, and while Isabella examined the names 
+18, 0, 0, it was Catherine 's employment to watch the proceedings of these alarming young men 
+19, 0, 0, " They are not coming this way 
+20, 0, 0, are they 
+21, 0, 0, I hope they are not so impertinent as to follow us 
+22, 0, 0, Pray let me know if they are coming 
+23, 0, 0, I am determined I will not look up 
+24, 0, 0, In a few moments Catherine 
+25, 1, 0, with unaffected pleasure 
+26, 0, 0, assured her that she need not be longer uneasy 
+27, 0, 0, as the gentlemen had just left the pump room . 
+2416 27
+[(25, 27)]
+1, 0, 0, Catherine 
+2, 0, 0, in some amazement 
+3, 0, 0, complied 
+4, 0, 0, and after remaining a few moments silent 
+5, 0, 0, was on the point of reverting to what interested her at that time rather more than anything else in the world 
+6, 0, 0, Laurentina 's skeleton 
+7, 0, 0, when her friend prevented her 
+8, 0, 0, by saying 
+9, 0, 0, " For heaven 's sake 
+10, 0, 0, Let us move away from this end of the room 
+11, 0, 0, Do you know 
+12, 0, 1, there are two odious young men who have been staring at me this half hour 
+13, 0, 0, They really put me quite out of countenance 
+14, 0, 0, Let us go and look at the arrivals 
+15, 0, 0, They will hardly follow us there 
+16, 0, 0, Away they walked to the book 
+17, 0, 0, and while Isabella examined the names 
+18, 0, 0, it was Catherine 's employment to watch the proceedings of these alarming young men 
+19, 0, 0, " They are not coming this way 
+20, 0, 0, are they 
+21, 0, 0, I hope they are not so impertinent as to follow us 
+22, 0, 0, Pray let me know if they are coming 
+23, 0, 0, I am determined I will not look up 
+24, 0, 0, In a few moments Catherine 
+25, 1, 0, with unaffected pleasure 
+26, 0, 0, assured her that she need not be longer uneasy 
+27, 0, 0, as the gentlemen had just left the pump room . 
+2421 11
+[(11, 9)]
+1, 0, 0, " And I am sure 
+2, 0, 0, " said Catherine 
+3, 0, 1, " I know so little of such things that I cannot judge whether it was cheap or dear 
+4, 0, 0, Neither one nor the other 
+5, 0, 1, I might have got it for less 
+6, 0, 0, I dare say 
+7, 0, 0, but I hate haggling 
+8, 0, 0, and poor Freeman wanted cash 
+9, 0, 0, That was very good natured of you 
+10, 0, 0, " said Catherine 
+11, 1, 0, quite pleased . 
+2424 17
+[(17, 17)]
+1, 0, 0, " I think you must like Udolpho 
+2, 0, 0, if you were to read it 
+3, 0, 0, it is so very interesting 
+4, 0, 0, " Not I 
+5, 0, 0, faith 
+6, 0, 0, No 
+7, 0, 0, if I read any 
+8, 0, 0, it shall be Mrs 
+9, 0, 0, Radcliffe 's 
+10, 0, 0, her novels are amusing enough 
+11, 0, 0, they are worth reading 
+12, 0, 0, some fun and nature in them 
+13, 0, 0, " Udolpho was written by Mrs 
+14, 0, 0, Radcliffe 
+15, 0, 0, " said Catherine 
+16, 1, 0, with some hesitation 
+17, 0, 1, from the fear of mortifying him . 
+2432 10
+[(6, 6)]
+1, 0, 0, The younger Miss Thorpes being also dancing 
+2, 0, 0, Catherine was left to the mercy of Mrs 
+3, 0, 0, Thorpe and Mrs 
+4, 0, 0, Allen 
+5, 0, 0, between whom she now remained 
+6, 0, 1, She could not help being vexed at the non-appearance of Mr Thorpe 
+7, 0, 0, for she not only longed to be dancing 
+8, 0, 0, but was likewise aware that 
+9, 0, 0, as the real dignity of her situation could not be known 
+10, 1, 0, she was sharing with the scores of other young ladies still sitting down all the discredit of wanting a partner . 
+2437 25
+[(25, 2), (25, 3)]
+1, 0, 0, " Ah 
+2, 0, 1, He has got a partner 
+3, 0, 0, I wish he had asked you 
+4, 0, 0, " said Mrs 
+5, 0, 0, Allen 
+6, 0, 0, and after a short silence 
+7, 0, 0, she added 
+8, 0, 0, " he is a very agreeable young man 
+9, 0, 0, " Indeed he is 
+10, 0, 0, Mrs 
+11, 0, 0, Allen 
+12, 0, 0, " said Mrs 
+13, 0, 0, Thorpe 
+14, 0, 0, smiling complacently 
+15, 0, 0, " I must say it 
+16, 0, 0, though I am his mother 
+17, 0, 0, that there is not a more agreeable young man in the world 
+18, 0, 0, This inapplicable answer might have been too much for the comprehension of many 
+19, 0, 0, but it did not puzzle Mrs 
+20, 0, 0, Allen 
+21, 0, 0, for after only a moment 's consideration 
+22, 0, 0, she said 
+23, 0, 0, in a whisper to Catherine 
+24, 0, 0, " I dare say she thought I was speaking of her son 
+25, 1, 0, Catherine was disappointed and vexed . 
+2441 15
+[(15, 6)]
+1, 0, 0, " Break down 
+2, 0, 0, Oh 
+3, 0, 0, Lord 
+4, 0, 0, Did you ever see such a little tittuppy thing in your life 
+5, 0, 0, There is not a sound piece of iron about it 
+6, 0, 1, The wheels have been fairly worn out these ten years at least and as for the body 
+7, 0, 0, Upon my soul 
+8, 0, 0, you might shake it to pieces yourself with a touch 
+9, 0, 0, It is the most devilish little rickety business I ever beheld 
+10, 0, 0, Thank God 
+11, 0, 0, we have got a better 
+12, 0, 0, I would not be bound to go two miles in it for fifty thousand pounds 
+13, 0, 0, " Good heavens 
+14, 0, 0, " cried Catherine 
+15, 0, 0, quite frightened . 
+2453 9
+[(9, 7), (9, 9)]
+1, 0, 0, So Fledge came lower and lower 
+2, 0, 0, As they came down nearer to the earth and among the hills 
+3, 0, 0, the air grew warmer and after travelling so many hours with nothing to listen to but the beat of Fledge 's wings 
+4, 1, 1, it was nice to hear the homely and earthy noises again - the chatter of the river on its stony bed and the creaking of trees in the light wind 
+5, 0, 0, A warm 
+6, 0, 0, good smell of sun baked earth and grass and flowers came up to them 
+7, 0, 0, At last Fledge alighted 
+8, 0, 0, Digory rolled off and helped Polly to dismount 
+9, 0, 0, Both were glad to stretch their stiff legs . 
+2455 20
+[(20, 12)]
+1, 0, 0, " Well 
+2, 0, 0, tuck in 
+3, 0, 0, " said Fledge 
+4, 0, 0, taking a big mouthful of grass 
+5, 0, 0, Then he raised his head 
+6, 0, 1, still chewing and with bits of grass sticking out on each side of his mouth like whiskers 
+7, 0, 0, and said 
+8, 0, 0, " Come on 
+9, 0, 0, you two 
+10, 0, 0, dont be shy 
+11, 0, 0, There 's plenty for us all 
+12, 0, 0, " But we cant eat grass 
+13, 0, 0, " said Digory 
+14, 0, 0, " Hmm 
+15, 0, 0, hmm 
+16, 0, 0, " said Fledge 
+17, 1, 0, speaking with his mouth full 
+18, 0, 0, " Well - hmm - dont know quite what youll do then 
+19, 0, 0, Very good grass too 
+20, 0, 0, Polly and Digory stared at one another in dismay . 
+2459 6
+[(6, 6)]
+1, 0, 0, WELL done 
+2, 0, 0, " said Aslan in a voice that made the earth shake 
+3, 0, 0, Then Digory knew that all the Narnians had heard those words and that the story of them would be handed down from father to son in that new world for 
+4, 0, 1, But he was in no danger of feeling conceited for he didnt think about it at all now that he was face to face with Aslan 
+5, 0, 0, This time he found he could look straight into the Lion 's eyes 
+6, 0, 0, He had forgotten his troubles and felt absolutely content . 
+2460 8
+[(8, 8)]
+1, 0, 0, And he was sure now that her face looked a little different 
+2, 0, 0, He bent down and kissed her very softly and stole out of the room with a beating heart 
+3, 0, 0, taking the core of the apple with him 
+4, 0, 0, For the rest of that day 
+5, 0, 0, whenever he looked at the things about him 
+6, 0, 0, and saw how ordinary and un magical they were 
+7, 0, 0, he hardly dared to hope 
+8, 0, 0, but when he remembered the face of Aslan he did hope . 
+2463 9
+[(3, 3), (3, 8)]
+1, 0, 0, " Good old Strawberry 
+2, 0, 0, " said Polly 
+3, 1, 1, " I am glad he was one of the ones picked out to be a Talking Beast 
+4, 0, 0, And the Cabby 
+5, 0, 0, who was now standing beside the children 
+6, 0, 0, said 
+7, 0, 0, " Strike me pink 
+8, 0, 0, I always did say that ' oss ' ad a lot of sense 
+9, 0, 0, though . " 
+2470 15
+[(13, 10), (13, 11)]
+1, 0, 0, Then the whole family gathered by the baby 
+2, 0, 0, everyone seeming to hold her at the same time 
+3, 0, 0, and oop 
+4, 0, 0, there goes 
+5, 0, 0, they lightly dipped the baby 's feet in this pottery bowl full of holy water 
+6, 0, 0, right above the magic drawing which encompassed the whole universe 
+7, 0, 0, and then they touched her soles to the earth for the first time 
+8, 0, 0, When they lifted her back up into the air 
+9, 0, 0, tiny damp footprints remained on the ground below her 
+10, 0, 0, orienting this child at last onto the great Balinese grid 
+11, 0, 0, establishing who she was by establishing where she was 
+12, 0, 0, Everyone clapped their hands 
+13, 0, 0, delighted 
+14, 0, 0, The little girl was one of us now 
+15, 0, 0, A human being with all the risks and thrills which that perplexing incarnation entails . 
+2472 6
+[(6, 5)]
+1, 0, 0, He has not ever commented upon my business with Wayan 
+2, 0, 0, not once 
+3, 0, 0, " Darling 
+4, 0, 0, " he says kindly 
+5, 0, 1, " Of course she 's fucking with you 
+6, 1, 0, My heart drops into my guts with a splat . 
+2477 12
+[(3, 6)]
+1, 0, 0, Lydia was bid by her two eldest sisters to hold her tongue 
+2, 0, 0, but Mr Collins 
+3, 0, 0, much offended 
+4, 0, 0, laid aside his book 
+5, 0, 0, and said 
+6, 0, 1, " I have often observed how little young ladies are interested by books of a serious stamp 
+7, 0, 0, though written solely for their benefit 
+8, 0, 0, It amazes me 
+9, 0, 0, I confess 
+10, 0, 0, for certainly 
+11, 0, 1, there can be nothing so advantageous to them as instruction 
+12, 0, 0, But I will no longer importuned my young cousin . " 
+2489 14
+[(14, 13), (14, 14)]
+1, 0, 0, She could not win him 
+2, 0, 0, however 
+3, 0, 0, to any conversation 
+4, 0, 0, he merely answered her question 
+5, 0, 0, and read on 
+6, 0, 0, At length 
+7, 0, 0, quite exhausted by the attempt to be amused with her own book 
+8, 0, 0, which she had only chosen because it was the second volume of his 
+9, 0, 0, she gave a great yawn and said 
+10, 0, 0, " How pleasant it is to spend an evening in this way 
+11, 0, 0, I declare after all there is no enjoyment like reading 
+12, 0, 0, How much sooner one tires of any thing than of a book 
+13, 0, 0, When I have a house of my own 
+14, 1, 0, I shall be miserable if I have not an excellent library . " 
+2490 10
+[(9, 6), (9, 7)]
+1, 0, 0, " ee ee ee 
+2, 0, 0, " squeaked Golg 
+3, 0, 0, " Yes 
+4, 0, 0, I know that terrible road 
+5, 0, 0, I will show you where it begins 
+6, 0, 1, But it is no manner of use your Honour asking me to go with you on it 
+7, 0, 0, i 'll die rather 
+8, 0, 0, Why 
+9, 0, 0, " asked Eustace anxiously 
+10, 0, 0, " What 's so dreadful about it 
+2492 14
+[(7, 8)]
+1, 0, 0, The old lady would n't speak to them for a time 
+2, 0, 0, but happening to meet Jo at a friend 's 
+3, 0, 0, something in her comical face and blunt manners struck the old lady 's fancy 
+4, 0, 0, and she proposed to take her for a companion 
+5, 0, 0, This did not suit Jo at all 
+6, 0, 0, but she accepted the place since nothing better appeared and 
+7, 1, 0, to every one 's surprise 
+8, 0, 0, got on remarkably well with her irascible relative 
+9, 0, 0, There was an occasional tempest 
+10, 0, 0, and once Jo marched home 
+11, 0, 0, declaring she could n't bear it longer 
+12, 0, 0, but Aunt March always cleared up quickly 
+13, 0, 1, and sent for her to come back again with such urgency that she could not refuse 
+14, 0, 0, for in her heart she rather liked the peppery old lady . 
+2503 11
+[(10, 10), (10, 11)]
+1, 0, 0, At the Kings she daily saw all she wanted 
+2, 0, 0, for the children 's older sisters were just out 
+3, 0, 0, and Meg caught frequent glimpses of dainty ball dresses and bouquets 
+4, 0, 0, heard lively gossip about theaters 
+5, 0, 0, concerts 
+6, 0, 0, sleigh ing parties 
+7, 0, 0, and merry makings of all kinds 
+8, 0, 0, and saw money lavished on trifles which would have been so precious to her 
+9, 0, 0, Poor Meg seldom complained 
+10, 1, 1, but a sense of injustice made her feel bitter toward everyone sometimes 
+11, 0, 0, for she had not yet learned to know how rich she was in the blessings which alone can make life happy . 
+2504 12
+[(5, 4)]
+1, 0, 0, " Das ist gut 
+2, 0, 0, " " Die engel kinder 
+3, 0, 1, " cried the poor things as they ate and warmed their purple hands at the comfortable blaze 
+4, 0, 0, The girls had never been called angel children before 
+5, 0, 0, and thought it very agreeable 
+6, 0, 0, especially Jo 
+7, 0, 0, who had been considered a ' sancho ' ever since she was born 
+8, 1, 0, That was a very happy breakfast 
+9, 0, 0, though they didnt get any of it 
+10, 0, 0, And when they went away 
+11, 0, 0, leaving comfort behind 
+12, 0, 0, I think there were not in all the city four merrier people than the hungry little girls who gave away their breakfasts and contented themselves with bread and milk on 
+2505 12
+[(8, 4)]
+1, 0, 0, " Das ist gut 
+2, 0, 0, " " Die engel kinder 
+3, 0, 1, " cried the poor things as they ate and warmed their purple hands at the comfortable blaze 
+4, 0, 0, The girls had never been called angel children before 
+5, 0, 0, and thought it very agreeable 
+6, 0, 0, especially Jo 
+7, 0, 0, who had been considered a ' sancho ' ever since she was born 
+8, 1, 0, That was a very happy breakfast 
+9, 0, 0, though they didnt get any of it 
+10, 0, 0, And when they went away 
+11, 0, 0, leaving comfort behind 
+12, 0, 0, I think there were not in all the city four merrier people than the hungry little girls who gave away their breakfasts and contented themselves with bread and milk on 
+2508 5
+[(1, 1)]
+1, 0, 0, Caspian missed his nurse very much and shed many tears 
+2, 1, 0, and because he was so miserable 
+3, 0, 0, he thought about the old stories of Narnia far more than before 
+4, 0, 1, He dreamed of Dwarfs and Dryads every night and tried very hard to make the dogs and cats in the castle talk to him 
+5, 0, 0, But the dogs only wagged their tails and the cats only purred . 
+2521 7
+[(7, 7)]
+1, 0, 0, " Oh 
+2, 0, 0, come on 
+3, 0, 0, " growled Edmund 
+4, 0, 0, " we 've got to go 
+5, 0, 0, there 'll be no peace till we do 
+6, 0, 0, He fully intended to back Lucy up 
+7, 1, 1, but he was annoyed at losing his night 's sleep and was making up for it by doing everything as sulkily as possible . 
+2541 1
+[(1, 1)]
+1, 1, 1, in spite of his legendary bravery . 
+2548 1
+[(1, 1)]
+1, 1, 1, took by force whatever they discovered . 
+2552 1
+[(1, 1)]
+1, 1, 1, did homage to those who stayed behind . 
+2557 1
+[(1, 1)]
+1, 1, 1, but a little more coldly since they had finished eating . 
+2578 1
+[(1, 1)]
+1, 1, 1, Davie it 's for my heart . I found the medicine bottle and gave him some . He soon began to look a little better . Why did you lie 
+2582 1
+[(1, 1)]
+1, 1, 1, but there did not seem to be any way of escaping . 
+2584 1
+[(1, 1)]
+1, 1, 1, because I thought that they had left me to die alone in that terrible place . 
+2588 1
+[(1, 1)]
+1, 1, 1, Alan straightened his back and showed himself to the soldiers who were chasing us . 
+2640 1
+[(1, 1)]
+1, 1, 1, So I went back and the widow cried and I had to put on those new clothes again I didnt like it at all 
+2657 1
+[(1, 1)]
+1, 1, 1, Well of course we were all very unhappy for our friend the Duke but he said ' i 'll be happier if you do things for me Bring me my 
+2658 1
+[(1, 1)]
+1, 1, 1, So we did things for him and he liked it But the old man spoke very little and he looked unhappy too 
+2669 1
+[(1, 1)]
+1, 1, 1, ' jim ' tom said ' buthe 's ' then he stopped and thought ' right i 'll help too i 'll make a really good plan ' He looked 
+2672 1
+[(1, 1)]
+1, 1, 1, They wanted to steal Jim and get the three hundred dollars from his owner Well the Phelpses and their friends got very excited and on the night of the escape 
+2675 1
+[(1, 1)]
+1, 0, 1, ' we did it Aunt Sally Me and Tom here We helped Jim escape ' He told her all about the digging and everything and Aunt Sally 's mouth was 
+2677 1
+[(1, 1)]
+1, 1, 1, Aunt Sally was really pleased to see her sister and jumped up to put her arms round her . I got under the bed as fast as I could There 
+2681 6
+[(6, 4), (6, 5)]
+1, 0, 0, " I do not believe Mrs 
+2, 0, 0, Long will do any such thing 
+3, 0, 0, She has two nieces of her own 
+4, 0, 0, She is a selfish 
+5, 0, 0, hypocritical woman 
+6, 0, 0, and I have no opinion of her . " 
+2688 8
+[(8, 8)]
+1, 0, 0, " Now 
+2, 0, 0, Kitty 
+3, 0, 0, you may cough as much as you chuse 
+4, 1, 0, " said Mr Bennet 
+5, 0, 0, and 
+6, 0, 0, as he spoke 
+7, 0, 0, he left the room 
+8, 0, 0, fatigued with the raptures of his wife . 
+2693 7
+[(4, 2), (4, 3)]
+1, 0, 0, His character was decided 
+2, 0, 0, He was the proudest 
+3, 0, 0, most disagreeable man in the world 
+4, 0, 1, and every body hoped that he would never come there again 
+5, 0, 0, Amongst the most violent against him was Mrs 
+6, 0, 0, Bennet 
+7, 0, 0, whose dislike of his general behaviour was sharpened into particular resentment by his having slighted one of her daughters . 
+2729 4
+[(3, 3)]
+1, 0, 0, He went on 
+2, 0, 0, " Yeah 
+3, 1, 1, that little punch a yours surprised me 
+4, 0, 0, I never figured you to throw a dirty punch . " 
+2743 7
+[(2, 3)]
+1, 0, 0, When I was younger 
+2, 1, 1, I scared my mother to death 
+3, 0, 0, the things I would blurt out about District 12 
+4, 0, 0, about the people who rule our country 
+5, 0, 0, Panem 
+6, 0, 0, from the far-off city called the Capitol 
+7, 0, 0, Eventually I understood this would only lead us to more trouble . 
+2749 8
+[(3, 5)]
+1, 0, 0, Tonight 
+2, 0, 0, After the reaping 
+3, 0, 0, everyone is supposed to celebrate 
+4, 0, 0, And a lot of people do 
+5, 0, 1, out of relief that their children have been spared for another year 
+6, 0, 0, But at least two families will pull their shutters 
+7, 0, 0, lock their doors 
+8, 0, 0, and try to figure out how they will survive the painful weeks to come . 
+2750 9
+[(4, 4)]
+1, 0, 0, Gale knows his anger at Madge is misdirected 
+2, 0, 0, On other days 
+3, 0, 0, deep in the woods 
+4, 0, 0, i 've listened to him rant about how the tesserae are just another tool to cause misery in our district 
+5, 0, 0, A way to plant hatred between the starving workers of the Seam and those who can generally count on supper and thereby ensure we will never trust one another 
+6, 0, 0, " It 's to the Capitol 's advantage to have us divided among ourselves 
+7, 0, 0, " he might say if there were no ears to hear but mine 
+8, 0, 0, If it wasnt reaping day 
+9, 1, 0, If a girl with a gold pin and no tesserae had not made what im sure she thought was a harmless comment . 
+2762 7
+[(1, 3)]
+1, 0, 0, " Lovely 
+2, 0, 0, " says Effie Trinket 
+3, 1, 1, " But I believe there 's a small matter of introducing the reaping winner and then asking for volunteers 
+4, 0, 0, and if one does come forth then we 
+5, 0, 0, um 
+6, 0, 0, she trails off 
+7, 0, 0, unsure herself . 
+2776 9
+[(2, 1)]
+1, 0, 0, There was a clatter in the bakery and I heard the woman screaming again and the sound of a blow 
+2, 0, 0, and I vaguely wondered what was going on 
+3, 1, 0, Feet sloshed toward me through the mud and I thought 
+4, 0, 0, It 's her 
+5, 0, 0, She 's coming to drive me away with a stick 
+6, 0, 0, But it wasnt her 
+7, 0, 0, It was the boy 
+8, 0, 0, In his arms 
+9, 0, 0, he carried two large loaves of bread that must have fallen into the fire because the crusts were scorched black . 
+2783 6
+[(5, 6)]
+1, 0, 1, " I dont even know if there 'll be wood 
+2, 0, 0, " I say 
+3, 0, 0, Another year 
+4, 0, 0, they tossed everybody into a landscape of nothing but boulders and sand and scruffy bushes 
+5, 0, 0, I particularly hated that year 
+6, 0, 0, Many contestants were bitten by venomous snakes or went insane from thirst . 
+2821 12
+[(12, 7)]
+1, 0, 0, When im dried and moisturized with lotion 
+2, 0, 0, I find an outfit has been left for me at the front of the closet 
+3, 0, 0, Tight black pants 
+4, 0, 0, a long-sleeved burgundy tunic 
+5, 0, 0, and leather shoes 
+6, 0, 0, I put my hair in the single braid down my back 
+7, 0, 1, This is the first time since the morning of the reaping that I resemble myself 
+8, 0, 0, No fancy hair and clothes 
+9, 0, 0, no flaming capes 
+10, 0, 0, Just me 
+11, 0, 0, Looking like I could be headed for the woods 
+12, 0, 0, It calms me . 
+2824 7
+[(4, 1)]
+1, 0, 0, Up went a handful of soft snow 
+2, 0, 1, and the head turned at once 
+3, 0, 1, showing a face which lost its listless look in a minute 
+4, 0, 0, as the big eyes brightened and the mouth began to smile 
+5, 0, 0, Jo nodded and laughed 
+6, 0, 0, and flourished her broom as she called out 
+7, 0, 0, and flourished her broom as she called out 
